@@ -36,7 +36,7 @@ This course offers a formal treatment of foundational models in political econom
 | 05   | Bonus: Democratic Backsliding              | Strategic erosion of democratic norms          |
 
 > 📌 **Formative Assessment:**  
-> Students can choose between weekly essays (1000 words) or sets of exercises based on the week’s model. 
+> Students can choose between weekly essays or sets of exercises based on the week’s model. 
 
 ---
 
