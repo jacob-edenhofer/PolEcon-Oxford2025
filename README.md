@@ -1,4 +1,4 @@
-# A Second Introduction to Formal Political Economy – Trinity Term 2025  
+# A Second Introduction to Formal Political Economy  
 **Instructor:** Jacob Edenhofer  
 **Institution:** University of Oxford – Nuffield College  
 **Term:** Trinity Term 2025  
