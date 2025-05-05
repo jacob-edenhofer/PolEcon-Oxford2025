@@ -1,0 +1,4 @@
+panel
+plotly
+scipy
+numpy
