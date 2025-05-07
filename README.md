@@ -30,9 +30,9 @@ This course offers a formal treatment of foundational models in political econom
 | Week | Topic                                      | Key Models & Themes                           |
 |------|--------------------------------------------|------------------------------------------------|
 | 01   | Electoral Accountability                   | Voter control, selection vs. sanctioning       |
-| 02   | Party Competition   | Formal justifications for parties, Downsian model of party competition and extension          |
+| 02   | Party Competition   | Formal justifications for parties, Downsian model of party competition and extensions          |
 | 03   | Distributive Politics and the effects of Electoral Rules          | Core vs. swing voter debate and formal models of electoral rules           |
-| 04   | Interest Groups and Lobbying               | Influence, informational lobbying              |
+| 04   | Interest Groups and Lobbying               | Formal models of lobbying and interest group influence              |
 | 05   | Bonus: Democratic Backsliding              | Strategic erosion of democratic norms          |
 
 > 📌 **Formative Assessment:**  
