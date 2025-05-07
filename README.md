@@ -6,7 +6,7 @@
 
 ## Course Overview
 
-This course offers a formal treatment of foundational models in political economy, focusing especially on democratic institutions such as **elections** and **interest groups**. It aims to both deepen theoretical understanding and explore the real-world implications of these models. The course is designed for students with little prior exposure to formal theory.
+This course offers a formal treatment of foundational models in political economy, focusing especially on democratic institutions, such as elections, political parties, and interest groups. It aims to both deepen theoretical understanding and explore the real-world implications of these models. The course is designed for students with little prior exposure to formal theory.
 
 ---
 
@@ -30,8 +30,8 @@ This course offers a formal treatment of foundational models in political econom
 | Week | Topic                                      | Key Models & Themes                           |
 |------|--------------------------------------------|------------------------------------------------|
 | 01   | Electoral Accountability                   | Voter control, selection vs. sanctioning       |
-| 02   | Party Competition & Distributive Politics  | Spatial models, core vs. swing voters          |
-| 03   | Electoral Rules and Their Effects          | Institutional design, representation           |
+| 02   | Party Competition   | Formal justifications for parties, Downsian model of party competition and extension          |
+| 03   | Distributive Politics and the effects of Electoral Rules          | Core vs. swing voter debate and formal models of electoral rules           |
 | 04   | Interest Groups and Lobbying               | Influence, informational lobbying              |
 | 05   | Bonus: Democratic Backsliding              | Strategic erosion of democratic norms          |
 
