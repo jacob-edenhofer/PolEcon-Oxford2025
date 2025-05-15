@@ -1,0 +1,1154 @@
+<!DOCTYPE html>
+<!-- saved from url=(0058)https://onlinelibrary.wiley.com/doi/pdf/10.1111/ajps.12784 -->
+<html lang="en" class="pb-page" data-request-id="5b6ce8f7051b488a8e7973426001149e"><head data-pb-dropzone="head"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style><!----> <!--?lit$2705758556$-->.osano-cm-window{font-family:Helvetica,Arial,Hiragino Sans GB,STXihei,Microsoft YaHei,WenQuanYi Micro Hei,Hind,MS Gothic,Apple SD Gothic Neo,NanumBarunGothic,sans-serif;font-size:16px;font-smooth:always;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothingz:auto;display:block;left:0;line-height:1;position:absolute;top:0;width:100%;z-index:2147483638;--fade-transition-time:700ms;--slide-transition-time:400ms}.osano-cm-window--context_amp{height:100%}.osano-visually-hidden{height:1px;left:-10000px;margin:-1px;opacity:0;overflow:hidden;position:absolute;width:1px}.osano-cm-button{border-radius:.25em;border-style:solid;border-width:thin;cursor:pointer;flex:1 1 auto;font-size:1em;font-weight:700;line-height:1;margin:.125em;min-width:6em;padding:.5em .75em;transition-duration:.2s;transition-property:background-color;transition-timing-function:ease-out}.osano-cm-button--type_icon{border-radius:50%;height:1em;line-height:0;min-width:1em;width:1em}.osano-cm-button:focus,.osano-cm-button:hover{outline:none}.osano-cm-close{border-radius:50%;border-style:solid;border-width:2px;box-sizing:content-box;cursor:pointer;height:20px;margin:.5em;min-height:20px;min-width:20px;order:0;outline:none;overflow:hidden;padding:0;width:20px;stroke-width:1px;justify-content:center;line-height:normal;text-decoration:none;transform:rotate(0deg);transition-duration:.2s;transition-property:transform,color,background-color,stroke,stroke-width;transition-timing-function:ease-out;z-index:2}.osano-cm-close:focus,.osano-cm-close:hover{transform:rotate(90deg);stroke-width:2px}.ccpa-opt-out-icon{display:flex;flex:1 1 auto}.ccpa-opt-out-icon svg{max-width:40px}.osano-cm-link{cursor:pointer;text-decoration:underline;transition-duration:.2s;transition-property:color;transition-timing-function:ease-out}.osano-cm-link:active,.osano-cm-link:hover{outline:none}.osano-cm-link:focus{font-weight:700;outline:none}.osano-cm-link--type_feature,.osano-cm-link--type_purpose,.osano-cm-link--type_specialFeature,.osano-cm-link--type_specialPurpose{cursor:help;display:block;-webkit-text-decoration:dashed;text-decoration:dashed}.osano-cm-link--type_denyAll{display:block;text-align:right}[dir=rtl] .osano-cm-link--type_denyAll{text-align:left}.osano-cm-link--type_vendor{display:block}.osano-cm-vendor-link{font-size:.75em}.osano-cm-list-item{margin:0}.osano-cm-list-item--type_term{border-top-style:solid;border-top-width:1px;font-size:.875rem;font-weight:400;margin-bottom:.25em;margin-top:.5em;padding:.5em .75rem 0;position:relative;top:-1px}.osano-cm-list-item--type_description{font-size:.75rem;font-weight:lighter;padding:0 .75rem}.osano-cm-list{list-style-position:outside;list-style-type:none;margin:0;padding:0}.osano-cm-list__list-item{text-indent:0}.osano-cm-list--type_description{margin:0 -1em}.osano-cm-list:first-of-type .osano-cm-list__list-item:first-of-type{border-top-width:0;margin-top:0;padding-top:0}.osano-cm-toggle{align-items:center;display:flex;flex-direction:row-reverse;justify-content:flex-start;margin:.25em 0;pointer-events:auto;position:relative}.osano-cm-toggle__label{margin:0 .5em 0 0}[dir=rtl] .osano-cm-toggle__label{margin:0 0 0 .5em}.osano-cm-toggle__switch{border-radius:14px;border-style:solid;border-width:2px;box-sizing:content-box;color:transparent;display:block;flex-shrink:0;height:18px;line-height:0;margin:0;position:relative;text-indent:-9999px;transition-duration:.2s;transition-property:background-color;transition-timing-function:ease-out;width:40px}.osano-cm-toggle__switch:hover{cursor:pointer}.osano-cm-toggle__switch:after{border-radius:9px;border-width:0;height:18px;left:0;top:0;width:18px}.osano-cm-toggle__switch:before{border-radius:16px;border-width:2px;bottom:-6px;box-sizing:border-box;left:-6px;right:-6px;top:-6px}.osano-cm-toggle__switch:after,.osano-cm-toggle__switch:before{border-style:solid;content:"";margin:0;position:absolute;transform:translateX(0);transition-duration:.3s;transition-property:transform,left,border-color;transition-timing-function:ease-out}.osano-cm-toggle__switch:after:active,.osano-cm-toggle__switch:before:active{transition-duration:.1s}.osano-cm-toggle__switch:after:active{width:26px}.osano-cm-toggle__switch:before:active{width:34px}[dir=rtl] .osano-cm-toggle__switch:after{left:100%;transform:translateX(-100%)}.osano-cm-toggle__input{height:1px;left:-10000px;margin:-1px;opacity:0;overflow:hidden;position:absolute;width:1px}[dir=rtl] .osano-cm-toggle__input{left:0;right:-10000px}.osano-cm-toggle__input:disabled{cursor:default}.osano-cm-toggle--type_checkbox .osano-cm-toggle__switch{border-radius:4px;border-style:solid;border-width:1px;height:22px;width:22px}.osano-cm-toggle--type_checkbox .osano-cm-toggle__switch:after{background-color:transparent!important;border-bottom-width:2px;border-left-width:2px;border-radius:0;content:none;height:6px;left:3px;top:3px;transform:rotate(-45deg);transition-property:color;transition-timing-function:ease-out;width:12px}.osano-cm-toggle--type_opt-out .osano-cm-toggle__switch{border-radius:4px;border-style:solid;border-width:1px;height:22px;width:22px}.osano-cm-toggle--type_opt-out .osano-cm-toggle__switch:after,.osano-cm-toggle--type_opt-out .osano-cm-toggle__switch:before{background-color:transparent!important;border-bottom-width:1px;border-radius:0;border-top-width:1px;content:none;height:0;left:-3px;top:7px;transition-property:color;transition-timing-function:ease-out;width:12px}.osano-cm-toggle--type_opt-out .osano-cm-toggle__switch:after{transform:translate(50%,50%) rotate(-45deg)}.osano-cm-toggle--type_opt-out .osano-cm-toggle__switch:before{transform:translate(50%,50%) rotate(45deg)}.osano-cm-toggle__input:checked+.osano-cm-toggle__switch:after{left:100%;transform:translateX(-100%)}[dir=rtl] .osano-cm-toggle__input:checked+.osano-cm-toggle__switch:after{left:0;transform:translateX(0)}.osano-cm-toggle__input:disabled+.osano-cm-toggle__switch{cursor:default}.osano-cm-toggle--type_checkbox .osano-cm-toggle__input:checked+.osano-cm-toggle__switch:after{content:"";left:3px;top:3px;transform:rotate(-45deg)}.osano-cm-toggle--type_opt-out .osano-cm-toggle__input:checked+.osano-cm-toggle__switch:after,.osano-cm-toggle--type_opt-out .osano-cm-toggle__input:checked+.osano-cm-toggle__switch:before{content:"";left:-1px;top:9px}.osano-cm-toggle--type_opt-out .osano-cm-toggle__input:checked+.osano-cm-toggle__switch:after{transform:translate(50%,50%) rotate(-45deg)}.osano-cm-toggle--type_opt-out .osano-cm-toggle__input:checked+.osano-cm-toggle__switch:before{transform:translate(50%,50%) rotate(45deg)}.osano-cm-toggle--type_checkbox .osano-cm-toggle__input:disabled+.osano-cm-toggle__switch,.osano-cm-toggle--type_opt-out .osano-cm-toggle__input:disabled+.osano-cm-toggle__switch{opacity:.3}.osano-cm-widget{background:none;border:none;bottom:12px;cursor:pointer;height:40px;opacity:.9;outline:none;padding:0;position:fixed;transition:transform .1s linear 0s,opacity .2s linear 0ms,visibility 0ms linear 0ms;visibility:visible;width:40px;z-index:2147483636}.osano-cm-widget--position_right{right:12px}.osano-cm-widget--position_left{left:12px}.osano-cm-widget:focus{outline:solid;outline-offset:.2rem}.osano-cm-widget:focus,.osano-cm-widget:hover{opacity:1;transform:scale(1.1)}.osano-cm-widget--hidden{opacity:0;visibility:hidden}.osano-cm-widget--hidden:focus,.osano-cm-widget--hidden:hover{opacity:0;transform:scale(1)}.osano-cm-dialog{align-items:center;box-sizing:border-box;font-size:1em;line-height:1.25;max-height:100vh;overflow:auto;padding:1.5em;position:fixed;transition-delay:0ms,0ms;transition-duration:.7s,0ms;transition-property:opacity,visibility;visibility:visible;z-index:2147483637}.osano-cm-dialog--hidden{opacity:0;transition-delay:0ms,.7s;visibility:hidden}.osano-cm-dialog--type_bar{box-sizing:border-box;display:flex;flex-direction:column;left:0;right:0}.osano-cm-dialog--type_bar .osano-cm-button{flex:none;margin:.125em auto;width:80%}@media screen and (min-width:768px){.osano-cm-dialog--type_bar{flex-direction:row}.osano-cm-dialog--type_bar .osano-cm-button{flex:1 1 100%;margin:.25em .5em;width:auto}}.osano-cm-dialog--type_box{flex-direction:column;max-height:calc(100vh - 2em);max-width:20em;width:calc(100vw - 2em)}.osano-cm-dialog__close{position:absolute;right:0;top:0}.osano-cm-dialog__list{margin:.5em 0 0;padding:0}.osano-cm-dialog__list .osano-cm-item{display:flex;margin-top:0}.osano-cm-dialog__list .osano-cm-item:last-child{margin-bottom:0}.osano-cm-dialog__list .osano-cm-toggle{flex-direction:row}[dir=rtl] .osano-cm-dialog__list .osano-cm-toggle{flex-direction:row-reverse}.osano-cm-dialog__list .osano-cm-label{white-space:nowrap}[dir=ltr] .osano-cm-dialog__list .osano-cm-label{margin-left:.375em}[dir=rtl] .osano-cm-dialog__list .osano-cm-label{margin-right:.375em}.osano-cm-dialog__buttons{display:flex;flex-wrap:wrap}.osano-cm-dialog--type_bar .osano-cm-dialog__content{flex:5;margin-bottom:.25em;width:100%}.osano-cm-dialog--type_box .osano-cm-dialog__content{display:flex;flex-direction:column;flex-grow:.0001;transition:flex-grow 1s linear}.osano-cm-dialog--type_box .osano-cm-link-separator:before{content:"";padding:0}.osano-cm-dialog--type_box .osano-cm-content__link{margin-bottom:.5em}.osano-cm-dialog--type_bar .osano-cm-dialog__list{display:flex;flex-direction:column;flex-wrap:wrap;justify-content:flex-start;margin:.75em auto}@media screen and (min-width:376px){.osano-cm-dialog--type_bar .osano-cm-dialog__list{flex-direction:row}}@media screen and (min-width:768px){.osano-cm-dialog--type_bar .osano-cm-dialog__list{margin:.5em 0 0 auto}[dir=rtl] .osano-cm-dialog--type_bar .osano-cm-dialog__list{margin:.5em auto 0 0}}[dir=ltr] .osano-cm-dialog--type_bar .osano-cm-dialog__list .osano-cm-item{margin-right:.5em}[dir=rtl] .osano-cm-dialog--type_bar .osano-cm-dialog__list .osano-cm-item{margin-left:.5em}.osano-cm-dialog--type_bar .osano-cm-dialog__list .osano-cm-label{padding-top:0}.osano-cm-dialog--type_bar .osano-cm-dialog__buttons{flex:1;justify-content:flex-end;margin:0;width:100%}@media screen and (min-width:768px){.osano-cm-dialog--type_bar .osano-cm-dialog__buttons{margin:0 0 0 .5em;max-width:30vw;min-width:16em;position:sticky;top:0;width:auto}[dir=rtl] .osano-cm-dialog--type_bar .osano-cm-dialog__buttons{margin:0 .5em 0 0}}.osano-cm-dialog--type_box .osano-cm-dialog__buttons{margin:.5em 0 0}.osano-cm-dialog--type_bar.osano-cm-dialog--position_top{top:0}.osano-cm-dialog--type_bar.osano-cm-dialog--position_bottom{bottom:0}.osano-cm-dialog--type_box.osano-cm-dialog--position_top-left{left:1em;top:1em}.osano-cm-dialog--type_box.osano-cm-dialog--position_top-right{right:1em;top:1em}.osano-cm-dialog--type_box.osano-cm-dialog--position_bottom-left{bottom:1em;left:1em}.osano-cm-dialog--type_box.osano-cm-dialog--position_bottom-right{bottom:1em;right:1em}.osano-cm-dialog--type_box.osano-cm-dialog--position_center{left:50%;top:50%;transform:translate(-50%,-50%)}.osano-cm-dialog--type_box.osano-cm-dialog--wide{max-width:50em}@media screen and (max-height:800px)and (max-width:1200px){.osano-cm-dialog--type_box.osano-cm-dialog--wide{max-width:calc(100vw - 4em)}}.osano-cm-dialog--type_box.osano-cm-dialog--wide .osano-cm-dialog__list{display:flex;flex-wrap:wrap}.osano-cm-dialog--context_amp{height:100%;position:relative}.osano-cm-content__message{margin-bottom:1em;word-break:break-word}.osano-cm-drawer-links{margin:.5em 0 0}.osano-cm-drawer-links__link{display:block}.osano-cm-storage-policy{display:inline-block}.osano-cm-usage-list{margin:0 0 .5em}.osano-cm-usage-list__list{list-style-position:inside;list-style-type:disc}:export{fadeTransitionTime:.7s;slideTransitionTime:.4s}.osano-cm-info-dialog{height:100vh;left:0;position:fixed;top:0;transition-delay:0ms,0ms;transition-duration:.2s,0ms;transition-property:opacity,visibility;visibility:visible;width:100vw;z-index:2147483638}.osano-cm-info-dialog--hidden{opacity:0;transition-delay:0ms,.2s;visibility:hidden}.osano-cm-header{margin:0 0 -1em;padding:1em 0;position:sticky;top:0;z-index:1}.osano-cm-info{animation:delay-overflow .4s;bottom:0;box-shadow:0 0 2px 2px #ccc;box-sizing:border-box;max-width:20em;overflow:visible visible;position:fixed;top:0;transition-duration:.4s;transition-property:transform;width:100%}.osano-cm-info--position_left{left:0;transform:translate(-100%)}.osano-cm-info--position_right{right:0;transform:translate(100%)}.osano-cm-info--open{animation:none;overflow:hidden auto;transform:translate(0)}.osano-cm-info--do_not_sell{animation:none;height:-moz-fit-content;height:fit-content;left:50%;max-height:100vh;position:fixed;right:auto;top:50%;transform:translate(-50%,-50%);transition:none}.osano-cm-info--do_not_sell .osano-cm-close{order:-1}.osano-cm-info--do_not_sell .osano-cm-header{box-sizing:content-box;display:block;flex:none}.osano-cm-info-views{align-items:flex-start;display:flex;flex-direction:row;flex-wrap:nowrap;height:100%;transition-duration:.4s;transition-property:transform;width:100%}[dir=rtl] .osano-cm-info-views{flex-direction:row-reverse}.osano-cm-info-views__view{box-sizing:border-box;flex-shrink:0;width:100%}.osano-cm-info-views--position_0>:not(:first-of-type){max-height:100%;overflow:hidden}.osano-cm-info-views--position_1{transform:translateX(-100%)}.osano-cm-info-views--position_1>:not(:nth-of-type(2)){max-height:100%;overflow:hidden}.osano-cm-info-views--position_2{transform:translateX(-200%)}.osano-cm-info-views--position_2>:not(:nth-of-type(3)){max-height:100%;overflow:hidden}.osano-cm-info--do_not_sell .osano-cm-info-views{height:-moz-fit-content;height:fit-content}.osano-cm-view{height:0;padding:0 .75em 1em;transition-delay:.4s;transition-duration:0ms;transition-property:height,visibility;visibility:hidden;width:100%}.osano-cm-view__button{font-size:.875em;margin:1em 0 0;width:100%}.osano-cm-view--active{height:auto;transition-delay:0ms;visibility:visible}.osano-cm-description{font-size:.75em;font-weight:300;line-height:1.375;margin:1em 0 0}.osano-cm-description:first-child{margin:0}.osano-cm-description:last-of-type{margin-bottom:1em}.osano-cm-drawer-toggle .osano-cm-label{font-size:.875em;line-height:1.375em;margin:0 auto 0 0}[dir=rtl] .osano-cm-drawer-toggle .osano-cm-label{margin:0 0 0 auto}.osano-cm-info-dialog-header{align-items:center;display:flex;flex-direction:row-reverse;left:auto;min-height:3.25em;position:sticky;top:0;width:100%;z-index:1}[dir=rtl] .osano-cm-info-dialog-header{flex-direction:row}.osano-cm-info-dialog-header__header{align-items:center;display:flex;flex:1 1 auto;font-size:1em;justify-content:flex-start;margin:0;order:1;padding:1em .75em}.osano-cm-info-dialog-header__description{font-size:.75em;line-height:1.375}.osano-cm-back,.osano-cm-info-dialog-header__close{position:relative}.osano-cm-back{flex:0 1 auto;margin:0 0 0 .5em;min-width:0;order:2;width:auto;z-index:2}[dir=rtl] .osano-cm-back{margin:0 .5em 0 0}.osano-cm-powered-by{align-items:center;display:flex;flex-direction:column;font-weight:700;justify-content:center;margin:1em 0}.osano-cm-powered-by__link{font-size:.625em;outline:none;text-decoration:none}.osano-cm-powered-by__link:focus,.osano-cm-powered-by__link:hover{text-decoration:underline}@keyframes delay-overflow{0%{overflow:hidden auto}}.osano-cm-drawer-iab-button-container{display:flex;gap:.5em;justify-content:center;margin-bottom:2em}.osano-cm-illustrations__list>.osano-cm-list-item--type_description{padding:.2rem 1rem}.osano-cm-drawer-item.osano-cm-description__list li{padding-top:.75em}.osano-cm-tcf-purpose--label{border-bottom:1px solid rgba(0,0,0,.1);display:block;margin-bottom:.5em;padding:.25em 0 .5em}.osano-cm-link.osano-cm-link--type_purpose{font-weight:400}.osano-cm-tcf-purpose--label input{float:right;margin-right:.5em}.osano-cm-expansion-panel{border-bottom:1px solid rgba(0,0,0,.1);display:block;font-size:.75em;margin:0 -1.5em 1em;padding:1.5em 1.5em 0}.osano-cm-expansion-panel--expanded{border-bottom:none}.osano-cm-expansion-panel--empty,.osano-cm-expansion-panel--empty:not([open]){border-bottom:1px solid rgba(0,0,0,.1);padding-bottom:0}.osano-cm-expansion-panel__body{background-color:rgba(0,0,0,.1);line-height:1.25;list-style:none;margin:0 -1.5em;max-height:0;overflow:hidden;padding:0 1.5em;transition-delay:0ms,0ms,0ms,.3s;transition-duration:.3s,.3s,.3s,0s;transition-property:max-height,padding-top,padding-bottom,visibility;transition-timing-function:ease-out;visibility:hidden}.osano-cm-expansion-panel__toggle{cursor:pointer;display:block;line-height:1.25;margin:0 auto 1em 0;outline:none;position:relative}.osano-cm-expansion-panel__toggle:active,.osano-cm-expansion-panel__toggle:focus,.osano-cm-expansion-panel__toggle:hover{outline:none}[dir=rtl] .osano-cm-expansion-panel__toggle{margin:0 0 1em auto}.osano-cm-expansion-panel--expanded .osano-cm-expansion-panel__body{max-height:none;padding:1.25em 1.5em 1em;transition-delay:0ms,0ms,0ms,0ms;visibility:visible}.osano-cm-cookie-disclosure__title,.osano-cm-script-disclosure__title{border:0;clear:both;display:block;flex:0 1 30%;font-size:1em;font-weight:700;line-height:1.375;margin:0 0 .5em;padding:0}.osano-cm-cookie-disclosure__description,.osano-cm-script-disclosure__description{flex:0 1 70%;font-size:1em;line-height:1.375;margin:0 0 .5em;padding:0}.osano-cm-disclosure{border-bottom:none;display:block;font-size:.75em;margin:0 -1.5em 1em;padding:1.5em 1.5em 0}.osano-cm-disclosure--collapse{border-bottom:1px solid rgba(0,0,0,.1);padding-bottom:1em}.osano-cm-disclosure--empty,.osano-cm-disclosure--empty:not([open]){border-bottom:1px solid rgba(0,0,0,.1);padding-bottom:0}.osano-cm-disclosure__list{background-color:rgba(0,0,0,.1);line-height:1.25;list-style:none;margin:0 -1.5em;padding:1.25em 1.5em 1em}.osano-cm-disclosure__list:empty{border:none;padding:0 1.5em}.osano-cm-disclosure__list:first-of-type{margin-top:1em;padding:1.25em 1.5em 1em}.osano-cm-disclosure__list:first-of-type:empty{padding:1.75em 1.5em .75em}.osano-cm-disclosure__list:not(:first-of-type):not(:empty){border-top:1px solid rgba(0,0,0,.1)}.osano-cm-disclosure__list:empty+.osano-cm-disclosure__list:not(:empty){border:none;padding:0 1.5em}.osano-cm-disclosure__list:not(:empty)~.osano-cm-disclosure__list:empty+.osano-cm-disclosure__list:not(:empty){border-top:1px solid rgba(0,0,0,.1)}.osano-cm-disclosure__list>.osano-cm-list-item{line-height:1.25}.osano-cm-disclosure__list>.osano-cm-list-item:not(:first-of-type){border-top:1px solid rgba(0,0,0,.1);margin:1em -1.25em 0;padding:1em 1.25em 0}.osano-cm-disclosure__toggle{cursor:pointer;display:block;font-weight:700;line-height:1.25;margin:0 auto 0 0;outline:none;position:relative}.osano-cm-disclosure__toggle:focus,.osano-cm-disclosure__toggle:hover{text-decoration:underline}[dir=rtl] .osano-cm-disclosure__toggle{margin:0 0 0 auto}.osano-cm-disclosure--loading .osano-cm-disclosure__list{height:0;line-height:0;max-height:0}.osano-cm-disclosure--loading .osano-cm-disclosure__list>*{display:none}.osano-cm-disclosure--loading .osano-cm-disclosure__list:after{animation-duration:1s;animation-iteration-count:infinite;animation-name:osano-load-scale;animation-timing-function:ease-in-out;border-radius:100%;content:"";display:block;height:1em;position:relative;top:-.125em;transform:translateY(-50%);width:1em}.osano-cm-disclosure--collapse .osano-cm-disclosure__list{display:none}.osano-cm-disclosure--collapse .osano-cm-disclosure__list:after{content:none}.osano-cm-cookie-disclosure,.osano-cm-script-disclosure{display:flex;flex-wrap:wrap;margin:0}.osano-cm-cookie-disclosure__description:last-of-type,.osano-cm-cookie-disclosure__title:last-of-type,.osano-cm-script-disclosure__description:last-of-type,.osano-cm-script-disclosure__title:last-of-type{margin-bottom:0}@keyframes osano-load-scale{0%{transform:translateY(-50%) scale(0)}to{opacity:0;transform:translateY(-50%) scale(1)}} .osano-cm-window { direction: <!--?lit$2705758556$-->ltr; text-align: <!--?lit$2705758556$-->left; } .osano-cm-dialog { background: <!--?lit$2705758556$-->#edeff5; color: <!--?lit$2705758556$-->#414246; } .osano-cm-dialog__close { color: <!--?lit$2705758556$-->#414246; stroke: <!--?lit$2705758556$-->#414246; } .osano-cm-dialog__close:focus { background-color: <!--?lit$2705758556$-->#414246; border-color: <!--?lit$2705758556$-->#414246; stroke: <!--?lit$2705758556$-->#edeff5; } .osano-cm-dialog__close:hover { stroke: <!--?lit$2705758556$-->#55565a; } .osano-cm-dialog__close:focus:hover { stroke: <!--?lit$2705758556$-->#d9dbe1; } .osano-cm-info-dialog { background: <!--?lit$2705758556$-->rgba(0,0,0,0.45); } .osano-cm-header, .osano-cm-info-dialog-header { background: <!--?lit$2705758556$-->#fff; background: linear-gradient( 180deg, <!--?lit$2705758556$-->#fff 2.5em, <!--?lit$2705758556$-->rgba(255,255,255,0) 100% ); } .osano-cm-info { background: <!--?lit$2705758556$-->#fff; color: <!--?lit$2705758556$-->#000; } .osano-cm-link-separator::before { content: '|'; padding: 0 0.5em; } .osano-cm-close { display: flex; background-color: transparent; border-color: transparent; } .osano-cm-info-dialog-header__close { color: <!--?lit$2705758556$-->#000; stroke: <!--?lit$2705758556$-->#000; } .osano-cm-info-dialog-header__close:focus { background-color: <!--?lit$2705758556$-->#000; border-color: <!--?lit$2705758556$-->#000; stroke: <!--?lit$2705758556$-->#fff; } .osano-cm-info-dialog-header__close:hover { stroke: <!--?lit$2705758556$-->#141414; } .osano-cm-info-dialog-header__close:focus:hover { stroke: <!--?lit$2705758556$-->#ebebeb; } .osano-cm-disclosure__list:first-of-type::after { background-color: <!--?lit$2705758556$-->#29246a; } .osano-cm-disclosure__toggle, .osano-cm-expansion-panel__toggle { color: <!--?lit$2705758556$-->#29246a; } .osano-cm-disclosure__toggle:hover, .osano-cm-disclosure__toggle:active, .osano-cm-expansion-panel__toggle:hover, .osano-cm-expansion-panel__toggle:active { color: <!--?lit$2705758556$-->#29246a; } .osano-cm-disclosure__toggle:focus, .osano-cm-expansion-panel__toggle:focus { color: <!--?lit$2705758556$-->#3d387e; } .osano-cm-button { background-color: <!--?lit$2705758556$-->#4b81e8; border-color: <!--?lit$2705758556$-->#000; color: <!--?lit$2705758556$-->#000; } .osano-cm-button--type_deny { background-color: <!--?lit$2705758556$-->#989; border-color: <!--?lit$2705758556$-->#fff; color: <!--?lit$2705758556$-->#fff; } .osano-cm-button:focus, .osano-cm-button:hover { background-color: <!--?lit$2705758556$-->#5f95fc; } .osano-cm-button--type_deny:focus, .osano-cm-button--type_deny:hover { background-color: <!--?lit$2705758556$-->#857485; } .osano-cm-link { color: <!--?lit$2705758556$-->#29246a; } .osano-cm-link:hover, .osano-cm-link:active { color: <!--?lit$2705758556$-->#29246a; } .osano-cm-link:focus { color: <!--?lit$2705758556$-->#3d387e; } .osano-cm-toggle__switch { background-color: <!--?lit$2705758556$-->#d2cfff; } .osano-cm-toggle__switch::after { background-color: <!--?lit$2705758556$-->#ffffff; border-color: <!--?lit$2705758556$-->#ffffff; } .osano-cm-toggle__switch::before { border-color: transparent; } .osano-cm-toggle__input:checked + .osano-cm-toggle__switch { background-color: <!--?lit$2705758556$-->#37cd8f; border-color: <!--?lit$2705758556$-->#37cd8f; } .osano-cm-toggle__input:checked + .osano-cm-toggle__switch::after, .osano-cm-toggle__input:checked + .osano-cm-toggle__switch::before { border-color: <!--?lit$2705758556$-->#f4f4f4; } .osano-cm-toggle__input:focus + .osano-cm-toggle__switch, .osano-cm-toggle__input:hover + .osano-cm-toggle__switch { background-color: <!--?lit$2705758556$-->#bebbeb; border-color: <!--?lit$2705758556$-->#bebbeb; } .osano-cm-toggle__input:focus + .osano-cm-toggle__switch::before { border-color: <!--?lit$2705758556$-->#bebbeb; } .osano-cm-toggle__input:checked:focus + .osano-cm-toggle__switch, .osano-cm-toggle__input:checked:hover + .osano-cm-toggle__switch { background-color: <!--?lit$2705758556$-->#23b97b; border-color: <!--?lit$2705758556$-->#23b97b; } .osano-cm-toggle__input:checked:focus + .osano-cm-toggle__switch::before { border-color: <!--?lit$2705758556$-->#23b97b; } .osano-cm-toggle__input:disabled + .osano-cm-toggle__switch, .osano-cm-toggle__input:disabled:focus + .osano-cm-toggle__switch, .osano-cm-toggle__input:disabled:hover + .osano-cm-toggle__switch { background-color: <!--?lit$2705758556$-->#928fbf; border-color: <!--?lit$2705758556$-->#928fbf; } .osano-cm-toggle__input:disabled + .osano-cm-toggle__switch::after, .osano-cm-toggle__input:disabled:focus + .osano-cm-toggle__switch::after, .osano-cm-toggle__input:disabled:hover + .osano-cm-toggle__switch::after { background-color: <!--?lit$2705758556$-->#bfbfbf; border-color: <!--?lit$2705758556$-->#bfbfbf; } .osano-cm-toggle__input:disabled + .osano-cm-toggle__switch::before, .osano-cm-toggle__input:disabled:focus + .osano-cm-toggle__switch::before, .osano-cm-toggle__input:disabled:hover + .osano-cm-toggle__switch::before { border-color: transparent; } .osano-cm-toggle__input:disabled:checked + .osano-cm-toggle__switch, .osano-cm-toggle__input:disabled:checked:focus + .osano-cm-toggle__switch, .osano-cm-toggle__input:disabled:checked:hover + .osano-cm-toggle__switch { background-color: <!--?lit$2705758556$-->#008d4f; border-color: <!--?lit$2705758556$-->#008d4f; } .osano-cm-toggle__input:disabled:checked + .osano-cm-toggle__switch::after, .osano-cm-toggle__input:disabled:checked:focus + .osano-cm-toggle__switch::after, .osano-cm-toggle__input:disabled:checked:hover + .osano-cm-toggle__switch::after { background-color: <!--?lit$2705758556$-->#b4b4b4; border-color: <!--?lit$2705758556$-->#b4b4b4; } .osano-cm-toggle__input:disabled:checked + .osano-cm-toggle__switch::before, .osano-cm-toggle__input:disabled:checked:focus + .osano-cm-toggle__switch::before, .osano-cm-toggle__input:disabled:checked:hover + .osano-cm-toggle__switch::before { border-color: transparent; } .osano-cm-widget__outline { fill: <!--?lit$2705758556$-->#fff; stroke: <!--?lit$2705758556$-->#29246a; } .osano-cm-widget__dot { fill: <!--?lit$2705758556$-->#37cd8f; } .osano-cm-tcf-purpose--label input { accent-color: <!--?lit$2705758556$-->#37cd8f; } </style><style>:root{--litepicker-container-months-color-bg: #fff;--litepicker-container-months-box-shadow-color: #ddd;--litepicker-footer-color-bg: #fafafa;--litepicker-footer-box-shadow-color: #ddd;--litepicker-tooltip-color-bg: #fff;--litepicker-month-header-color: #333;--litepicker-button-prev-month-color: #9e9e9e;--litepicker-button-next-month-color: #9e9e9e;--litepicker-button-prev-month-color-hover: #2196f3;--litepicker-button-next-month-color-hover: #2196f3;--litepicker-month-width: calc(var(--litepicker-day-width) * 7);--litepicker-month-weekday-color: #9e9e9e;--litepicker-month-week-number-color: #9e9e9e;--litepicker-day-width: 38px;--litepicker-day-color: #333;--litepicker-day-color-hover: #2196f3;--litepicker-is-today-color: #f44336;--litepicker-is-in-range-color: #bbdefb;--litepicker-is-locked-color: #9e9e9e;--litepicker-is-start-color: #fff;--litepicker-is-start-color-bg: #2196f3;--litepicker-is-end-color: #fff;--litepicker-is-end-color-bg: #2196f3;--litepicker-button-cancel-color: #fff;--litepicker-button-cancel-color-bg: #9e9e9e;--litepicker-button-apply-color: #fff;--litepicker-button-apply-color-bg: #2196f3;--litepicker-button-reset-color: #909090;--litepicker-button-reset-color-hover: #2196f3;--litepicker-highlighted-day-color: #333;--litepicker-highlighted-day-color-bg: #ffeb3b}.show-week-numbers{--litepicker-month-width: calc(var(--litepicker-day-width) * 8)}.litepicker{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;font-size:0.8em;display:none}.litepicker button{border:none;background:none}.litepicker .container__main{display:-webkit-box;display:-ms-flexbox;display:flex}.litepicker .container__months{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;background-color:var(--litepicker-container-months-color-bg);border-radius:5px;-webkit-box-shadow:0 0 5px var(--litepicker-container-months-box-shadow-color);box-shadow:0 0 5px var(--litepicker-container-months-box-shadow-color);width:calc(var(--litepicker-month-width) + 10px);-webkit-box-sizing:content-box;box-sizing:content-box}.litepicker .container__months.columns-2{width:calc((var(--litepicker-month-width) * 2) + 20px)}.litepicker .container__months.columns-3{width:calc((var(--litepicker-month-width) * 3) + 30px)}.litepicker .container__months.columns-4{width:calc((var(--litepicker-month-width) * 4) + 40px)}.litepicker .container__months.split-view .month-item-header .button-previous-month,.litepicker .container__months.split-view .month-item-header .button-next-month{visibility:visible}.litepicker .container__months .month-item{padding:5px;width:var(--litepicker-month-width);-webkit-box-sizing:content-box;box-sizing:content-box}.litepicker .container__months .month-item-header{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;font-weight:500;padding:10px 5px;text-align:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;color:var(--litepicker-month-header-color)}.litepicker .container__months .month-item-header div{-webkit-box-flex:1;-ms-flex:1;flex:1}.litepicker .container__months .month-item-header div>.month-item-name{margin-right:5px}.litepicker .container__months .month-item-header div>.month-item-year{padding:0}.litepicker .container__months .month-item-header .reset-button{color:var(--litepicker-button-reset-color)}.litepicker .container__months .month-item-header .reset-button>svg{fill:var(--litepicker-button-reset-color)}.litepicker .container__months .month-item-header .reset-button *{pointer-events:none}.litepicker .container__months .month-item-header .reset-button:hover{color:var(--litepicker-button-reset-color-hover)}.litepicker .container__months .month-item-header .reset-button:hover>svg{fill:var(--litepicker-button-reset-color-hover)}.litepicker .container__months .month-item-header .button-previous-month,.litepicker .container__months .month-item-header .button-next-month{visibility:hidden;text-decoration:none;padding:3px 5px;border-radius:3px;-webkit-transition:color 0.3s, border 0.3s;transition:color 0.3s, border 0.3s;cursor:default}.litepicker .container__months .month-item-header .button-previous-month *,.litepicker .container__months .month-item-header .button-next-month *{pointer-events:none}.litepicker .container__months .month-item-header .button-previous-month{color:var(--litepicker-button-prev-month-color)}.litepicker .container__months .month-item-header .button-previous-month>svg,.litepicker .container__months .month-item-header .button-previous-month>img{fill:var(--litepicker-button-prev-month-color)}.litepicker .container__months .month-item-header .button-previous-month:hover{color:var(--litepicker-button-prev-month-color-hover)}.litepicker .container__months .month-item-header .button-previous-month:hover>svg{fill:var(--litepicker-button-prev-month-color-hover)}.litepicker .container__months .month-item-header .button-next-month{color:var(--litepicker-button-next-month-color)}.litepicker .container__months .month-item-header .button-next-month>svg,.litepicker .container__months .month-item-header .button-next-month>img{fill:var(--litepicker-button-next-month-color)}.litepicker .container__months .month-item-header .button-next-month:hover{color:var(--litepicker-button-next-month-color-hover)}.litepicker .container__months .month-item-header .button-next-month:hover>svg{fill:var(--litepicker-button-next-month-color-hover)}.litepicker .container__months .month-item-weekdays-row{display:-webkit-box;display:-ms-flexbox;display:flex;justify-self:center;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;color:var(--litepicker-month-weekday-color)}.litepicker .container__months .month-item-weekdays-row>div{padding:5px 0;font-size:85%;-webkit-box-flex:1;-ms-flex:1;flex:1;width:var(--litepicker-day-width);text-align:center}.litepicker .container__months .month-item:first-child .button-previous-month{visibility:visible}.litepicker .container__months .month-item:last-child .button-next-month{visibility:visible}.litepicker .container__months .month-item.no-previous-month .button-previous-month{visibility:hidden}.litepicker .container__months .month-item.no-next-month .button-next-month{visibility:hidden}.litepicker .container__days{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;justify-self:center;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:center;-webkit-box-sizing:content-box;box-sizing:content-box}.litepicker .container__days>div,.litepicker .container__days>a{padding:5px 0;width:var(--litepicker-day-width)}.litepicker .container__days .day-item{color:var(--litepicker-day-color);text-align:center;text-decoration:none;border-radius:3px;-webkit-transition:color 0.3s, border 0.3s;transition:color 0.3s, border 0.3s;cursor:default}.litepicker .container__days .day-item:hover{color:var(--litepicker-day-color-hover);-webkit-box-shadow:inset 0 0 0 1px var(--litepicker-day-color-hover);box-shadow:inset 0 0 0 1px var(--litepicker-day-color-hover)}.litepicker .container__days .day-item.is-today{color:var(--litepicker-is-today-color)}.litepicker .container__days .day-item.is-locked{color:var(--litepicker-is-locked-color)}.litepicker .container__days .day-item.is-locked:hover{color:var(--litepicker-is-locked-color);-webkit-box-shadow:none;box-shadow:none;cursor:default}.litepicker .container__days .day-item.is-in-range{background-color:var(--litepicker-is-in-range-color);border-radius:0}.litepicker .container__days .day-item.is-start-date{color:var(--litepicker-is-start-color);background-color:var(--litepicker-is-start-color-bg);border-top-left-radius:5px;border-bottom-left-radius:5px;border-top-right-radius:0;border-bottom-right-radius:0}.litepicker .container__days .day-item.is-start-date.is-flipped{border-top-left-radius:0;border-bottom-left-radius:0;border-top-right-radius:5px;border-bottom-right-radius:5px}.litepicker .container__days .day-item.is-end-date{color:var(--litepicker-is-end-color);background-color:var(--litepicker-is-end-color-bg);border-top-left-radius:0;border-bottom-left-radius:0;border-top-right-radius:5px;border-bottom-right-radius:5px}.litepicker .container__days .day-item.is-end-date.is-flipped{border-top-left-radius:5px;border-bottom-left-radius:5px;border-top-right-radius:0;border-bottom-right-radius:0}.litepicker .container__days .day-item.is-start-date.is-end-date{border-top-left-radius:5px;border-bottom-left-radius:5px;border-top-right-radius:5px;border-bottom-right-radius:5px}.litepicker .container__days .day-item.is-highlighted{color:var(--litepicker-highlighted-day-color);background-color:var(--litepicker-highlighted-day-color-bg)}.litepicker .container__days .week-number{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;color:var(--litepicker-month-week-number-color);font-size:85%}.litepicker .container__footer{text-align:right;padding:10px 5px;margin:0 5px;background-color:var(--litepicker-footer-color-bg);-webkit-box-shadow:inset 0px 3px 3px 0px var(--litepicker-footer-box-shadow-color);box-shadow:inset 0px 3px 3px 0px var(--litepicker-footer-box-shadow-color);border-bottom-left-radius:5px;border-bottom-right-radius:5px}.litepicker .container__footer .preview-date-range{margin-right:10px;font-size:90%}.litepicker .container__footer .button-cancel{background-color:var(--litepicker-button-cancel-color-bg);color:var(--litepicker-button-cancel-color);border:0;padding:3px 7px 4px;border-radius:3px}.litepicker .container__footer .button-cancel *{pointer-events:none}.litepicker .container__footer .button-apply{background-color:var(--litepicker-button-apply-color-bg);color:var(--litepicker-button-apply-color);border:0;padding:3px 7px 4px;border-radius:3px;margin-left:10px;margin-right:10px}.litepicker .container__footer .button-apply:disabled{opacity:0.7}.litepicker .container__footer .button-apply *{pointer-events:none}.litepicker .container__tooltip{position:absolute;margin-top:-4px;padding:4px 8px;border-radius:4px;background-color:var(--litepicker-tooltip-color-bg);-webkit-box-shadow:0 1px 3px rgba(0,0,0,0.25);box-shadow:0 1px 3px rgba(0,0,0,0.25);white-space:nowrap;font-size:11px;pointer-events:none;visibility:hidden}.litepicker .container__tooltip:before{position:absolute;bottom:-5px;left:calc(50% - 5px);border-top:5px solid rgba(0,0,0,0.12);border-right:5px solid transparent;border-left:5px solid transparent;content:""}.litepicker .container__tooltip:after{position:absolute;bottom:-4px;left:calc(50% - 4px);border-top:4px solid var(--litepicker-tooltip-color-bg);border-right:4px solid transparent;border-left:4px solid transparent;content:""}
+</style><style></style><style>:root {
+  --litepicker-mobilefriendly-backdrop-color-bg: #000;
+}
+
+.litepicker-backdrop {
+  display: none;
+  background-color: var(--litepicker-mobilefriendly-backdrop-color-bg);
+  opacity: 0.3;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.litepicker-open {
+  overflow: hidden;
+}
+
+.litepicker.mobilefriendly[data-plugins*="mobilefriendly"] {
+  transform: translate(-50%, -50%);
+  font-size: 1.1rem;
+  --litepicker-container-months-box-shadow-color: #616161;
+}
+.litepicker.mobilefriendly-portrait {
+  --litepicker-day-width: 13.5vw;
+  --litepicker-month-width: calc(var(--litepicker-day-width) * 7);
+}
+.litepicker.mobilefriendly-landscape {
+  --litepicker-day-width: 5.5vw;
+  --litepicker-month-width: calc(var(--litepicker-day-width) * 7);
+}
+
+.litepicker[data-plugins*="mobilefriendly"] .container__months {
+  overflow: hidden;
+}
+
+.litepicker.mobilefriendly[data-plugins*="mobilefriendly"] .container__months .month-item-header {
+  height: var(--litepicker-day-width);
+}
+
+.litepicker.mobilefriendly[data-plugins*="mobilefriendly"] .container__days > div {
+  height: var(--litepicker-day-width);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.litepicker[data-plugins*="mobilefriendly"] .container__months .month-item {
+  transform-origin: center;
+}
+
+.litepicker[data-plugins*="mobilefriendly"] .container__months .month-item.touch-target-next {
+  animation-name: lp-bounce-target-next;
+  animation-duration: .5s;
+  animation-timing-function: ease;
+}
+
+.litepicker[data-plugins*="mobilefriendly"] .container__months .month-item.touch-target-prev {
+  animation-name: lp-bounce-target-prev;
+  animation-duration: .5s;
+  animation-timing-function: ease;
+}
+
+@keyframes lp-bounce-target-next {
+  from {
+    transform: translateX(100px) scale(0.5);
+  }
+  to {
+    transform: translateX(0px) scale(1);
+  }
+}
+
+@keyframes lp-bounce-target-prev {
+  from {
+    transform: translateX(-100px) scale(0.5);
+  }
+  to {
+    transform: translateX(0px) scale(1);
+  }
+}</style>
+
+<title>The Dynamics of a Policy Outcome: Market Response and Bureaucratic Enforcement of a Policy Change - Callander - 2024 - American Journal of Political Science - Wiley Online Library</title>
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+
+    
+    
+
+    
+    
+    
+    
+        
+            
+            
+            
+                
+                    <link rel="stylesheet" type="text/css" href="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/o0ac~article-metrics-phase2.css">
+                
+            
+        
+    
+
+<link rel="stylesheet" type="text/css" href="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/o0ac~product.css">
+    <link rel="preload" href="https://onlinelibrary.wiley.com/products/acropolis/pericles/releasedAssets/fonts/icomoon/icomoon-e2c6876b36be1eeaf3fadced898534ca.woff?659d9c42515149627310" as="font" type="font/woff" crossorigin="anonymous"><link rel="preload" href="https://onlinelibrary.wiley.com/products/acropolis/pericles/releasedAssets/fonts/open-sans/open-sans-v15-latin-regular-cffb686d7d2f4682df8342bd4d276e09.woff2?659d9c42515149627310" as="font" type="font/woff2" crossorigin="anonymous"><link rel="preload" href="https://onlinelibrary.wiley.com/products/acropolis/pericles/releasedAssets/fonts/source-serif-pro/source-serif-pro-v5-latin-regular-d9806ff93a8031e190b897be425c83e1.woff2?659d9c42515149627310" as="font" type="font/woff2" crossorigin="anonymous"><link rel="stylesheet" href="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/build-659d9c42515149627310.css"><link rel="stylesheet" href="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/print-659d9c42515149627310.css" media="print">
+
+
+
+<script async="" type="text/javascript" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/saved_resource"></script><script async="" type="osano/blocked"></script><script type="osano/blocked" async=""></script><script type="osano/blocked" async=""></script><script async="" type="osano/blocked"></script><script async="" type="osano/blocked"></script><script async="" type="osano/blocked"></script><script type="osano/blocked"></script><script id="adobeDigitalData" registrationcompleted="false">window.adobeDataLayer = window.adobeDataLayer || [];
+window.dataLayer = window.dataLayer || [];
+function gtag() { dataLayer.push(arguments); }
+gtag('consent', 'default', {
+    'functionality_storage': 'granted',
+    'security_storage': 'granted',
+    'analytics_storage': 'denied',
+    'personalization_storage': 'denied',
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'wait_for_update': 500
+})
+window.adobeDataLayer.push({"site":{"environment":"LIVE","hub":"pericles","locale":"de-DE"},"user":{"login-status":"guest","admin-type":"non-admin","identities":[{"type":"BasicGroup","uuid":"e623deab-c83b-41e3-84a2-d9f1d46c5f17"},{"type":"ReferrerUser","uuid":"5a2c1d70-1255-4a45-95f3-a3aa3a2771fb"},{"type":"InstitutionUser","uuid":"dd40e26c-3e96-4e9f-9382-5d13a2a401f3","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"EAL57933332"}]},{"type":"ReferrerUser","uuid":"6401b279-b825-4f41-a389-04e29feb967f"},{"type":"InstitutionUser","uuid":"f2fe3189-2268-4a38-8067-0ed49b53d909","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"CORE00000004150"}]},{"type":"InstitutionUser","uuid":"aa082b46-6228-4014-9de9-355c350d6085","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"OXFORD145S"}]},{"type":"InstitutionUser","uuid":"bd4ce257-51c3-46ed-bb55-27d63aa64085","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"PLMSBACKFILE"}]},{"type":"InstitutionUser","uuid":"ff0e3f56-01ec-444c-a5c2-1c469a977552","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"EAL00000144552"}]},{"type":"InstitutionUser","uuid":"d2969670-fbe8-4d94-9065-3f519b375ff8","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"P#OATITLES"}]},{"type":"BasicGroup","uuid":"197fe835-5b5f-4f4e-b8e9-a74d68491a84"},{"type":"RegionUser","uuid":"3147507a-46c1-4f33-a077-4feac12c6b71"},{"type":"BasicGroup","uuid":"2f6750d5-f13f-4356-939b-048ac1423e64"},{"type":"InstitutionUser","uuid":"cf5635ed-5938-4983-af2e-14d04cbfb4cf","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"P#CIND"}]},{"type":"InstitutionUser","uuid":"bedda410-d0f8-4737-839a-3b367cff6ed8","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"EAL00000144150"}]},{"type":"SmartGroupUser","uuid":"b238ab85-6bb4-49e4-84ca-a0d9f3ee5a35"},{"type":"SmartGroupUser","uuid":"89490c0a-0b70-4215-8ec1-6aa771253899"},{"type":"InstitutionUser","uuid":"3dbcebfc-6af1-4fec-81df-d0b92706f7e0","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"EAL00000145619"}]},{"type":"InstitutionUser","uuid":"cc0258d4-b10e-4e8f-966b-fe551d394214","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"BLMSBACKFILE"}]},{"type":"InstitutionUser","uuid":"1b19994e-f6cd-4a6e-b151-a166eb757a02","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"EALEM00084"}]},{"type":"InstitutionUser","uuid":"a454dd84-0b2c-4d7b-804b-20fd42da68c7","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"P#JISC"}]},{"type":"InstitutionUser","uuid":"2196ade6-df1b-4d0d-b877-7d8cca58ee79","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"PARENTNESLI"}]},{"type":"SmartGroupUser","uuid":"da88d808-3f7b-4bde-9210-10862b6d121b"},{"type":"InstitutionUser","uuid":"1c4cea88-6636-4877-974d-3ce6cb5df1f9","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"EALEM0005X"}]},{"type":"InstitutionUser","uuid":"99a8e59c-95de-4ee9-b8ed-9af5bad33b19","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"EAL0000231"}]},{"type":"RegionUser","uuid":"20d013f5-e22b-4df0-ba93-d6d925db9e32"},{"type":"InstitutionUser","uuid":"472490a4-a4aa-404d-b9b6-dbc83f1a8ece","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"EAL00000068532"}]},{"type":"RegionUser","uuid":"82409588-c43f-4337-a6a8-3272d1b7e20e"},{"type":"SmartGroupUser","uuid":"b2dbfe27-ecae-4bb6-bb0d-d75e5caa3762"},{"type":"InstitutionUser","uuid":"a4b1920a-e289-4bfb-8916-cbe5cb4b45ad","customerRecords":[{"customerDomain":"ALM-CU","customerNumber":"EAL00000145093"}]}]},"content":{"item":{"title":"The Dynamics of a Policy Outcome: Market Response and Bureaucratic Enforcement of a Policy Change","doi":"10.1111/ajps.12784","access":"full","type":"article","topics":[{"taxonomyUri":"global-subject-codes","topicLabel":"Political Philosophy \u0026 Theory","topicUri":"po50"},{"taxonomyUri":"global-subject-codes","topicLabel":"International Relations","topicUri":"po30"},{"taxonomyUri":"global-subject-codes","topicLabel":"Comparative Politics","topicUri":"po10"},{"taxonomyUri":"global-subject-codes","topicLabel":"American Politics","topicUri":"po12"},{"taxonomyUri":"global-subject-codes","topicLabel":"General \u0026 Introductory Political Science","topicUri":"po00"},{"taxonomyUri":"global-subject-codes","topicLabel":"POLITICAL SCIENCE","topicUri":"po"},{"taxonomyUri":"global-subject-codes","topicLabel":"Political Systems","topicUri":"po17"},{"taxonomyUri":"global-subject-codes","topicLabel":"Public Policy \u0026 Administration","topicUri":"po70"}],"published-date":"2023-03-22","access-denial":"no","format-available":["Abstract","Cited by","First page image","Full text","PDF","References","Supplementary Material","AM pdf"],"format-viewed":"pdf","auth-type":"license"},"group":{"doi":"10.1111/ajps.v68.4","access":"full","type":"issue","volume":"68","issue":"4","published-date":"2024-10-01","topics":[{"taxonomyUri":"global-subject-codes","topicLabel":"Political Philosophy \u0026 Theory","topicUri":"po50"},{"taxonomyUri":"global-subject-codes","topicLabel":"International Relations","topicUri":"po30"},{"taxonomyUri":"global-subject-codes","topicLabel":"Comparative Politics","topicUri":"po10"},{"taxonomyUri":"global-subject-codes","topicLabel":"American Politics","topicUri":"po12"},{"taxonomyUri":"global-subject-codes","topicLabel":"General \u0026 Introductory Political Science","topicUri":"po00"},{"taxonomyUri":"global-subject-codes","topicLabel":"POLITICAL SCIENCE","topicUri":"po"},{"taxonomyUri":"global-subject-codes","topicLabel":"Political Systems","topicUri":"po17"},{"taxonomyUri":"global-subject-codes","topicLabel":"Public Policy \u0026 Administration","topicUri":"po70"}]},"series":{"title":"American Journal of Political Science","doi":"10.1111/(ISSN)1540-5907","access":"full","type":"journal","code":"15405907","eissn":"1540-5907","topics":[{"taxonomyUri":"global-subject-codes","topicLabel":"Political Philosophy \u0026 Theory","topicUri":"po50"},{"taxonomyUri":"global-subject-codes","topicLabel":"International Relations","topicUri":"po30"},{"taxonomyUri":"global-subject-codes","topicLabel":"Comparative Politics","topicUri":"po10"},{"taxonomyUri":"global-subject-codes","topicLabel":"American Politics","topicUri":"po12"},{"taxonomyUri":"global-subject-codes","topicLabel":"General \u0026 Introductory Political Science","topicUri":"po00"},{"taxonomyUri":"global-subject-codes","topicLabel":"POLITICAL SCIENCE","topicUri":"po"},{"taxonomyUri":"global-subject-codes","topicLabel":"Political Systems","topicUri":"po17"},{"taxonomyUri":"global-subject-codes","topicLabel":"Public Policy \u0026 Administration","topicUri":"po70"},{"taxonomyUri":"gpt-sitename","topicLabel":"wly.polit.sci_000101","topicUri":"wly.polit.sci_000101"},{"taxonomyUri":"gpt-zonename","topicLabel":"aj-polit-sci_AJPS","topicUri":"aj-polit-sci_ajps"}]}},"page":{"brand":"wol","type":"article","primary-section":"journal","secondary-section":"article","tertiary-section":"pdf"}});</script>
+<script type="text/javascript">var $DoubleClickZone = "aj-polit-sci_ajps";var $DoubleClickSite =  "wly.polit.sci_000101";</script>
+<meta name="robots" content="noarchive"><meta name="description" content="Policy outcomes are determined not by the words in a statute but by the actions of private citizens. A policy&#39;s success or failure depends on how it shapes behavior and how that behavior shapes the f...">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    <meta property="og:title" content="American Journal of Political Science | MPSA Journal | Wiley Online Library">
+
+
+    <meta property="og:type" content="Article">
+
+
+    
+        <meta property="og:url" content="https://onlinelibrary.wiley.com/doi/10.1111/ajps.12784">
+    
+    
+
+
+
+    
+    
+        
+        
+
+        
+            <meta property="og:image" content="https://onlinelibrary.wiley.com/cms/asset/08e5ca38-105b-42a6-8f33-6aa8c5a9a0ad/ajps.v68.4.cover.jpg?trick=1747303323733">
+            <meta property="twitter:image" content="https://onlinelibrary.wiley.com/cms/asset/08e5ca38-105b-42a6-8f33-6aa8c5a9a0ad/ajps.v68.4.cover.jpg?trick=1747303323733">
+        
+    
+
+
+    <meta property="og:site_name" content="Wiley Online Library">
+
+
+        
+
+        <meta property="og:description" content="Policy outcomes are determined not by the words in a statute but by the actions of private citizens. A policy&#39;s success or failure depends on how it shapes behavior and how that behavior shapes the f...">
+
+<meta name="viewport" content="width=device-width,initial-scale=1"><meta name="apple-itunes-app" content="app-id=966217698">
+<meta name="publication_doi" content="10.1111/ajps.12784">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="submission-systems-domains" content="/pb-assets/utm_params_config/submission-systems-domains-1667213560157.txt">
+
+
+<!-- OsanoScriptEnabled: true -->
+
+
+<link rel="preload" href="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/osano.js.download" as="script">
+<script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/osano.js.download"></script>
+<script>
+    window.Osano.cm.addEventListener("osano-cm-script-blocked", function (item) {
+        console.log("Script blocked: " + item);
+    });
+    window.Osano.cm.addEventListener("osano-cm-cookie-blocked", function (item) {
+        console.log("Cookie blocked: " + item);
+    });
+</script>
+
+
+
+
+
+<style>
+    .d-flex {
+        display: flex;
+    }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <script async="" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/launch-1ff1f800248b.min.js.download"></script>
+    
+
+
+
+    
+
+    <meta name="citation_doi" content="10.1111/ajps.12784">
+
+    <meta name="dc.identifier" content="10.1111/ajps.12784">
+
+
+
+
+<meta name="citation_journal_title" content="American Journal of Political Science"><meta name="citation_title" content="The Dynamics of a Policy Outcome: Market Response and Bureaucratic Enforcement of a Policy Change"><meta name="citation_volume" content="68"><meta name="citation_issue" content="4"><meta name="citation_firstpage" content="1252"><meta name="citation_lastpage" content="1265"><meta name="citation_publication_date" content="2024/10/01"><meta name="citation_online_date" content="2023/03/22"><meta name="citation_issn" content="1540-5907"><meta name="citation_language" content="en"><meta name="citation_author" content="Steven Callander"><meta name="citation_author_institution" content="Stanford University"><meta name="citation_author" content="Dana Foarta"><meta name="citation_author_institution" content="Stanford University"><meta name="citation_author" content="Takuo Sugaya"><meta name="citation_author_institution" content="Stanford University"><meta name="citation_abstract_html_url" content="https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12784"><meta name="citation_fulltext_html_url" content="https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12784"><meta name="citation_pdf_url" content="https://onlinelibrary.wiley.com/doi/pdf/10.1111/ajps.12784"><meta name="citation_publisher" content="John Wiley &amp; Sons, Ltd"><meta name="article_references" content="Callander, S., Foarta, D. and Sugaya, T. (2024), The Dynamics of a Policy Outcome: Market Response and Bureaucratic Enforcement of a Policy Change. American Journal of Political Science, 68: 1252-1265. https://doi.org/10.1111/ajps.12784"><meta name="Description" content="Abstract Policy outcomes are determined not by the words in a statute but by the actions of private citizens. A policy&#39;s success or failure depends on how it shapes behavior and how that behavior s...">
+
+
+
+<script async="" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/catchpoint.js.download" nonce="5b6ce8f7051b488a8e7973426001149e" type="osano/blocked"></script>
+<meta name="referrer" content="origin-when-cross-origin">
+<link rel="shortcut icon" href="https://onlinelibrary.wiley.com/favicon.ico">
+
+
+<link rel="stylesheet" type="text/css" href="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/hub.css">
+
+
+<link rel="stylesheet" type="text/css" href="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/iucr.css">
+<link rel="stylesheet" type="text/css" href="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/readcube.css">
+<link rel="stylesheet" type="text/css" href="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/dr-overrides.css">
+<!-- link rel="stylesheet" type="text/css" href="/pb-assets/css/temporary-1733168052867.css" -->
+
+<style>
+
+    /* PERICLES-5833: TEMPORARY CSS TO ADJUST POSITION OF ADS */
+    .article-mpu-bottom .pb-ad {
+        margin: 0 0 0 195px;
+    }
+
+
+    .article-mpu-top .pb-ad {
+        padding-top: 20px;
+        margin: 0 0 -35px 0;
+    }
+
+
+    /* TEMPORARY CSS TO HIDE FPI IN TOP CONTENT ACTION WIDGET */
+
+    .custom-page-pericles .main-content :target:before {
+        content: "";
+        display: block;
+        height: 140px;
+        margin: -140px 0 0;
+    }
+
+    /* DO NOT REMOVE */
+    li[heading="Restore Points"].ng-isolate-scope,
+    li[heading="Disable Widgets"].ng-isolate-scope {
+        display: none !important;
+    }
+
+    .modal-header .widgetOrigin {
+        display: none;
+    }
+
+    /* PERICLES-15842: 22.1 Feature: Save and Publish Button */
+    .pb-changes-dialog.pb-save-dialog .modal-footer .btn.dropdown-toggle {
+        display: none;
+    }
+    .pb-changes-dialog.pb-save-dialog .modal-footer .btn.btn-primary{
+        border-radius: 4px;
+        margin-right: 5px
+    }
+
+    /*!* TrendMD Test *!
+    #article__content #trendmd-suggestions {
+        margin-top: 40px !important;
+        border-top: 1px solid #ddd;
+
+    }
+
+    body #article__content .trendmd-widget-container {
+        margin-top: 20px !important;
+    }
+
+    body #article__content .trendmd-widget-header__heading {
+        font-size: 20px !important;
+        margin-bottom: 30px !important
+    }
+
+    body #article__content .trendmd-widget-list-item__link, body #article__content .trendmd-widget-list-item__meta {
+        font-family: 'Open Sans', arial, sans-serif !important;
+    }
+
+    body #article__content .trendmd-widget {
+        font-size: 16px !important;
+    }
+
+    body #article__content .trendmd-widget-list-item {
+        margin-bottom: 24px !important;
+    }
+
+    body #article__content .trendmd-widget-list-item__link {
+        color: #005293 !important;
+    }
+
+    body #article__content .trendmd-widget-list-item__meta {
+        color: #5d5d5d !important;
+        font-size: 14px !important;
+        margin-top: 3px !important;
+    }
+
+    body #article__content .trendmd-widget_horizontal .trendmd-widget-section {
+        width: 47% !important;
+    }
+
+    @media (max-width: 450px) {
+        body #article__content .trendmd-widget_horizontal .trendmd-widget-section {
+            width: 95% !important;
+        }
+    }
+
+    #pane-pcw-related .trendmd-widget-header__heading {
+        font-size: 18px !important;
+        font-family: 'Open Sans', arial, sans-serif !important;
+    }
+
+    #pane-pcw-related .trendmd-widget-container {
+        padding: 0 20px !important;
+    }
+
+    #pane-pcw-related .trendmd-widget-list-item__link {
+        font-family: 'Open Sans', arial, sans-serif !important;
+        font-size: 14px !important;
+        color: #005293 !important;
+        display: block;
+        margin-bottom: 5px !important;
+    }
+
+    #pane-pcw-related .trendmd-widget-list-item__meta {
+        font-family: 'Open Sans', arial, sans-serif !important;
+        color: #666 !important;
+    }
+
+    #pane-pcw-related .trendmd-widget-list-item {
+        margin-bottom: 20px !important;
+    }*/
+
+    /* Remove this style for ticket: PERICLES-16844
+    .advert.advert-leaderboard {
+        max-width: 22.5rem;
+    }
+    */
+
+</style>
+
+
+<script type="text/javascript" nonce="5b6ce8f7051b488a8e7973426001149e">
+    var utmParamsEnabled = true;
+</script>
+
+<script type="text/javascript" nonce="5b6ce8f7051b488a8e7973426001149e">
+    var _hmt = _hmt || [];
+    (function () {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?953dddc9c7bea72022e3bd3ba7782e7b";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+
+
+<!-- Google Search Console verification -->
+<meta name="google-site-verification" content="ffz4i4DxIJCdGpRXe0XN6KG6o4FYI-nnFW9I_dg8piM">
+<meta name="google-site-verification" content="hdWo7Ws1fVArpU876Aal2KaoZ7vokr9ZNLcISOBm9aI">
+<meta name="google-site-verification" content="f_2wKVmVSKiYSTFpns9vtqI0sVux_tz7Vwr8zOWwXME">
+
+<!-- DoubleClick Implementation -->
+<script type="text/javascript" nonce="5b6ce8f7051b488a8e7973426001149e">
+    if (!$WileyGooglePublisherID) {
+        switch ("pericles") {
+ //            case "sms":
+ //               var $WileyGooglePublisherID = 21618997260;
+ //               break;
+            default:
+                var $WileyGooglePublisherID = 21618997260;
+       }
+    };
+	
+    if (!$DoubleClickSite) {
+        switch ("pericles") {
+            case "acsess.onlinelibrary.wiley.com":
+                var $DoubleClickSite = "wly.agriculture_000018";
+                break;
+            case "headachejournal":
+                var $DoubleClickSite = "wly.neurology_000086";
+                break;
+            case "wildlife":
+                var $DoubleClickSite = "wly.zoology_000120";
+                break;
+            case "nph":
+                var $DoubleClickSite = "wly.plant.sci_000100";
+                break;
+            case "bvajournals":
+                var $DoubleClickSite = "wly.veterin.med_000119";
+                break;
+            case "sms":
+                var $DoubleClickSite = "wly.busi.manage_000028";
+                break;
+            default:
+                var $DoubleClickSite = "undefined-site";
+        }
+        ;
+    }
+    ;
+
+    if (!$DoubleClickZone) {
+        switch ("pericles") {
+            case "acsess.onlinelibrary.wiley.com":
+                var $DoubleClickZone = "Agriculture_ACSESS_Hub";
+                break;
+            case "headachejournal":
+                var $DoubleClickZone = "headache_HEAD";
+                break;
+            case "wildlife":
+                var $DoubleClickZone = "tws_HUB";
+                break;
+            case "nph":
+                var $DoubleClickZone = "nph_HUB";
+                break;
+            case "bvajournals":
+                var $DoubleClickZone = "bvajournals_HUB";
+                break;
+            case "sms":
+                var $DoubleClickZone = "sms_HUB";
+                break;
+            default:
+                var $DoubleClickZone = "undefined-zone";
+        }
+        ;
+    }
+    ;
+
+    var $GooglePublisherCategory = "/" + $WileyGooglePublisherID + "/" + $DoubleClickSite + "/" + $DoubleClickZone;
+</script>
+
+<script nonce="5b6ce8f7051b488a8e7973426001149e">
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+
+    function loadScriptDynamically(scriptUrl) {
+        var gads = document.createElement('script'),
+            node = document.getElementsByTagName('script') [0];
+        gads.async = true;
+        gads.src = scriptUrl;
+        node.parentNode.insertBefore(gads, node);
+    }
+
+    loadScriptDynamically('https://securepubads.g.doubleclick.net/tag/js/gpt.js');
+</script>
+
+
+<script nonce="5b6ce8f7051b488a8e7973426001149e">
+    var isProgrammaticAdsEnabled = false;
+    var progAdsEnabledMeta = document.querySelector('meta[name="isProgrammaticAdsEnabled"]');
+
+    if(progAdsEnabledMeta){
+        isProgrammaticAdsEnabled = true;
+    }
+</script>
+
+<script nonce="5b6ce8f7051b488a8e7973426001149e">
+    if(isProgrammaticAdsEnabled){
+        loadScriptDynamically('https://cdn.confiant-integrations.net/aWonYuiOgPxwseCX0ZD_YAHL3qs/gpt_and_prebid/config.js');
+    }
+</script>
+
+<script nonce="5b6ce8f7051b488a8e7973426001149e">
+    if(isProgrammaticAdsEnabled){
+        //load the apstag.js library
+        !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+        //initialize the apstag.js library on the page to allow bidding
+        apstag.init({
+            pubID: '8a7b667a-8d2e-4ef5-9f99-439e2179fd23',
+            adServer: 'googletag',
+            simplerGPT: true
+        });
+    }
+</script>
+
+<script nonce="5b6ce8f7051b488a8e7973426001149e">
+    googletag.cmd.push(function () {
+        var sizes = {
+            leaderboard: googletag.sizeMapping()
+                .addSize([320, 100], [[300, 50], [320, 50]])
+                .addSize([740, 100], [728, 90])
+                .addSize([0, 0], 'fluid')
+                .build(),
+            mobileleaderboard: googletag.sizeMapping()
+                .addSize([300, 100], [300, 50])
+                .addSize([320, 100], [320, 50])
+                .build(),
+            mobilefooter: googletag.sizeMapping()
+                .addSize([0, 0], [300, 50])
+                .addSize([0, 0], [320, 50])
+                .build(),
+            rail: googletag.sizeMapping()
+                .addSize([0, 0], [300, 250])
+                .build(),
+            interstitial: googletag.sizeMapping()
+                .addSize([0, 0], [640, 480])
+                .build()
+        };
+
+        gptPage = window.digitalData && digitalData.page && digitalData.page.page ? digitalData.page.page : "blank";
+        gptSubPage = window.digitalData && digitalData.page && digitalData.page.subPage ? digitalData.page.subPage : "blank";
+
+        function gptClean(gptText) {
+            if (typeof (gptText) == "string") {
+                gptText = gptText.replace(/\&/g, '%26');
+                return gptText.replace(/\^|\*|#|\$|\"|\'|\=|\,|\!|\+|\~|\;|\(|\)|\<|\>|\[|\]|\?|\%|\:|\@|\;|\&|\||\{|\}|\\|/g, '');
+            }
+            return "blank";
+        }
+
+        googletag.pubads()
+            .setTargeting('property', 'value-of-property')    // Change and duplicate this line for as many additional keywords to send
+            .setTargeting('doi', gptClean('10.1111/ajps.12784')) // Publication DOI
+            .setTargeting('pbPage', gptClean(gptPage))
+            .setTargeting('pbSubPage', gptClean(gptSubPage))
+            .setTargeting('urlpath', gptClean(document.location.pathname));
+
+        googletag.defineSlot($GooglePublisherCategory, 'fluid', 'advert-leaderboard')
+            .defineSizeMapping(sizes.leaderboard)
+            .addService(googletag.pubads())
+            .setCollapseEmptyDiv(true);
+
+        // googletag.defineSlot($GooglePublisherCategory, 'fluid', 'advert-mobileleaderboard')
+        //     .defineSizeMapping(sizes.mobileleaderboard)
+        //     .addService(googletag.pubads())
+        //     .setTargeting('Position', 'advert-mobileleaderboard')
+        //     .setCollapseEmptyDiv(true);
+
+        // googletag.defineSlot($GooglePublisherCategory, 'fluid', 'advert-mobilefooter')
+        //     .defineSizeMapping(sizes.mobilefooter)
+        //     .addService(googletag.pubads())
+        //     .setTargeting('Position', 'advert-mobilefooter')
+        //     .setCollapseEmptyDiv(true);
+
+        googletag.defineSlot($GooglePublisherCategory, 'fluid', 'advert-rail-1')
+            .defineSizeMapping(sizes.rail)
+            .setTargeting('Position', 'advert-rail-1')
+            .addService(googletag.pubads())
+            .setCollapseEmptyDiv(true);
+
+        googletag.defineSlot($GooglePublisherCategory, 'fluid', 'advert-rail-2')
+            .defineSizeMapping(sizes.rail)
+            .setTargeting('Position', 'advert-rail-2')
+            .addService(googletag.pubads())
+            .setCollapseEmptyDiv(true);
+
+        // googletag.defineSlot($GooglePublisherCategory, 'fluid', 'advert-video')
+        //     .defineSizeMapping(sizes.interstitial)
+        //     .setTargeting('Position', 'advert-video')
+        //     .addService(googletag.pubads())
+        //     .setCollapseEmptyDiv(true);
+
+
+        // googletag.pubads().enableSingleRequest();
+
+
+        if(isProgrammaticAdsEnabled) {
+            // PERICLES-17135
+            googletag.pubads().disableInitialLoad();
+        }
+
+        googletag.enableServices();
+    });
+
+    if(isProgrammaticAdsEnabled) {
+        googletag.cmd.push(function () {
+            apstag.fetchBids({timeout: 2000}, function (bids) {
+                apstag.setDisplayBids();
+                googletag.pubads().refresh();
+            });
+        });
+    }
+</script>
+
+<!--PERICLES-19058-->
+
+<script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/dc.js.download" data-siteid="281" data-platid="1" data-pubid="84" nonce="5b6ce8f7051b488a8e7973426001149e" type="osano/blocked"></script>
+
+<script nonce="5b6ce8f7051b488a8e7973426001149e">
+    /* User Details */
+    if (Osano.cm.getConsent().MARKETING) {
+        var $userConsent = "1";
+    } else {
+        var $userConsent = "0";
+    }
+    try{
+        docereeAds.add("userDetails", {
+            "userconsent": $userConsent,
+            "specialization": "Pediatrics",
+        })
+    }
+    catch(err){
+        console.log(err)
+    }
+</script>
+
+
+
+
+
+
+    <!-- Get whether TNSI is in live or test mode -->
+    
+    <!-- Get the configured TNSI Javascript version number -->
+    
+    <!-- Get the configured TNSI MerchantID -->
+    
+    <!-- Add "TEST" to beginning of merchant ID when running in test mode -->
+    
+
+    
+<!-- loading Javascript for using the persistence Service -->
+    <script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/thiss-ds.js.download" nonce="5b6ce8f7051b488a8e7973426001149e"></script>
+
+    <script type="text/javascript" nonce="5b6ce8f7051b488a8e7973426001149e">
+
+        function getParameter(parameterName) {
+            let result = null,
+                tmp = [];
+            location.search
+                .substr(1)
+                .split("&")
+                .forEach(function (item) {
+                    tmp = item.split("=");
+                    if (tmp[0] === parameterName) result = tmp[1];
+                });
+            return result;
+        }
+
+        var SeamlessAccessService = {
+            spUrl: "/action/ssostart",
+            returnURL: window.location.href,
+            my_context: 'seamlessaccess.org',
+            queryParamsDelimiter: encodeURIComponent('?'),
+
+            getWAYFLessUrl: function (entityId) {
+                let redirectURL = getParameter('redirectUri');
+                if(redirectURL == null){
+                    redirectURL = encodeURIComponent(this.returnURL);
+                }
+                if(redirectURL.indexOf('saml_referrer') < 0){
+                    redirectURL += encodeURIComponent(((redirectURL.indexOf(this.queryParamsDelimiter) !== -1) ? '&' : '?') + 'saml_referrer');
+                }
+                return this.spUrl + "?idp=" + encodeURIComponent(entityId)
+                    + "&redirectUri=" + redirectURL;
+            },
+            retrieveEntity: function () {
+                var self = this;
+                var ps = new thiss.PersistenceService('https://service.seamlessaccess.org/ps/');
+
+                return new Promise(function (resolve, reject) {
+                    ps.entities(self.my_context)
+                        .then(function (res) {
+                            // get the results
+                            var results = res.data;
+                            return resolve(results);
+                        }, function (err) {
+                            // failed
+                            reject('retrieve entity error: ' + err);
+                        });
+                });
+            },
+            updateEntity: function (entitydata) {
+                var self = this;
+                var ps = new thiss.PersistenceService('https://service.seamlessaccess.org/ps/');
+
+                var jsonObj = {};
+                try {
+                    //try to parse it, if it is a json string
+                    jsonObj = JSON.parse(entitydata.val());
+                } catch (e) {
+                    jsonObj = entitydata;
+                }
+                return new Promise(function (resolve, reject) {
+                    ps.update(self.my_context, jsonObj)
+                        .then(function (res) {
+                            // Process the results
+                            var ssoInstitutions = res.data;
+                            return resolve(ssoInstitutions);
+                        }, function (err) {
+                            // failed
+                            console.log('failed to update the local storage duo to: ' + err);
+                            reject(err);
+                        });
+                })
+            },
+            removeEntity: function (entityId) {
+                var self = this;
+                var persistService = new thiss.PersistenceService('https://service.seamlessaccess.org/ps/');
+
+                return new Promise(function (resolve) {
+                    persistService.remove(self.my_context, entityId)
+                        .then(function (res) {
+                            return resolve(res);
+                        }, function (err) {
+                            // failed
+                            console.log('failed to remove from local storage duo to: ' + err);
+                        });
+                })
+            },
+            getAccessibleEntityStatus: function (doi, entityId, entityTitle) {
+                return new Promise(function (resolve) {
+                    $.ajax({
+                        type: 'POST',
+                        url: '/action/seamlessAccess',
+                        accept: {
+                            text: "application/json"
+                        },
+                        data: {doi: doi, entityid: entityId, entityTitle: entityTitle, eventGroupKey: '1ce842e7-4532-4936-afb4-d19da871c1ed'}
+
+                    }).done(function (status) {
+                        return resolve(status);
+                    });
+                });
+            },
+            getEntitiesWithAllInfo: function (doi) {
+                let self = this,
+                    arrayOfPromises = [];
+                return new Promise(function (resolve, reject) {
+                    self.retrieveEntity().then(function (res) {
+                        let allSsoInstitutions = res;
+                        for (let i in allSsoInstitutions) {
+                            let ssoInstitution = allSsoInstitutions[i];
+                            arrayOfPromises.push(new Promise(function (resolve) {
+                                self.getAccessibleEntityStatus(doi, ssoInstitution.entity.entityID, ssoInstitution.entity.title)
+                                    .then(function (entityStatus) {
+                                        resolve({
+                                            entityID: ssoInstitution.entity.entityID,
+                                            entityTitle: ssoInstitution.entity.title,
+                                            entityStatusObj: entityStatus,
+                                            entitySsoUrl: self.getWAYFLessUrl(ssoInstitution.entity.entityID)
+                                        });
+                                    }, function (err) {
+                                        console.log('failed to get the entity status: ' + err);
+                                    });
+                            }));
+                        }
+                        Promise.all(arrayOfPromises)
+                            .then(function (finalResponse) {
+                                resolve(finalResponse);
+                            });
+
+                    }).catch(function (err) {
+                        reject(err);
+                    })
+                });
+            }
+        };
+
+        window.addEventListener('load', function () {
+            document.querySelectorAll(".sso-institution").forEach(function (institution) {
+                var entityId = institution.getAttribute('data-entityid');
+                var entityName = institution.getAttribute('data-name');
+                var entitydata = {
+                    entityID: entityId,
+                    title: entityName
+                };
+                institution.addEventListener("click", function (e) {
+                    e.preventDefault();
+                    var self = this;
+                    SeamlessAccessService.updateEntity(entitydata).then(function (res) {
+                        console.log(res);
+                        window.location.href = self.href;
+                    }).catch(function (err){
+                        window.location.href = self.href;
+                    });
+                });
+            });
+        });
+
+    </script>
+    <script nonce="5b6ce8f7051b488a8e7973426001149e">
+            (function() {
+                function isBrowserChrome() {
+                    return /Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor);
+                }
+
+                if (isBrowserChrome()) {
+                    const originTrialToken = 'AkNzJOW9KcqV6Qlbg96xP2jqRsvzla/CKZY+FSKbiPtVTSST6mhuoiD7RFVzdtCrn2wI4LU0tmr8jf521BokXgkAAACJeyJvcmlnaW4iOiJodHRwczovL29ubGluZWxpYnJhcnkud2lsZXkuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZX0=';
+                    const originTrialMetaTag = document.createElement('meta');
+                    originTrialMetaTag.httpEquiv = 'origin-trial';
+                    originTrialMetaTag.content = originTrialToken;
+                    document.head.append(originTrialMetaTag);
+                }
+            })();
+        </script><meta http-equiv="origin-trial" content="AkNzJOW9KcqV6Qlbg96xP2jqRsvzla/CKZY+FSKbiPtVTSST6mhuoiD7RFVzdtCrn2wI4LU0tmr8jf521BokXgkAAACJeyJvcmlnaW4iOiJodHRwczovL29ubGluZWxpYnJhcnkud2lsZXkuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZX0=">
+    <script type="text/javascript" nonce="5b6ce8f7051b488a8e7973426001149e">
+        (function() {
+            function riskifiedBeaconLoad() {
+                var store_domain = 'https://onlinelibrary.wiley.com';
+                var session_id = 'B3653E104BD2C19AF0B2DD124A9FD9EB';
+                var url = ('https:' == document.location.protocol ? 'https://' : 'http://')
+                    + "beacon.riskified.com?shop=" + store_domain + "&sid=" + session_id;
+                var s = document.createElement('script');
+                s.type = 'text/javascript';
+                s.async = true;
+                s.src = url;
+                var x = document.getElementsByTagName('script')[0];
+                x.parentNode.insertBefore(s, x);
+            }
+            if (window.attachEvent)
+                window.attachEvent('onload', riskifiedBeaconLoad)
+            else
+                window.addEventListener('load', riskifiedBeaconLoad, false);
+        })();
+    </script>
+<meta name="mathjax-enabled" content="true">
+    <meta name="mathjax-version" content="3">
+    <meta name="mathjax-lazy-load" content="true">
+<meta name="pbContext" content=";requestedJournal:journal:15405907;issue:issue:doi\:10.1111/ajps.v68.4;subPage:string:FramedPDF;page:string:Article/Chapter View;ctype:string:Journal Content;website:website:pericles;journal:journal:15405907;article:article:doi\:10.1111/ajps.12784;wgroup:string:Publication Websites;pageGroup:string:Publication Pages">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<script charset="utf-8" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/vendors~dynamic-imports-4fd305f111344dee6545.js.download"></script><script charset="utf-8" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/utm-568222041280e2660752.js.download"></script><script charset="utf-8" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/adobeDigitalData-20800f0de1c7cd836b30.js.download"></script><script charset="utf-8" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/bulkDownload-3e14339cd14543699f78.js.download"></script><script charset="utf-8" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/exportCitation-27eb4758982ba120d222.js.download"></script><script type="osano/blocked" async=""></script><script charset="utf-8" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/headerAlt-26e3662b43f146fdb3e9.js.download"></script><script charset="utf-8" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/requestidlecallback-polyfill-872fd5dae3ac029825c1.js.download"></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/RC5ac0580ff0354571b2c5e15e0c016c8f-source.min.js.download" async=""></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/RCa7699bdb83d6406da20828ea63a91ca8-source.min.js.download" async=""></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/RC38e1c840b4ba44ad84defa64f6104a02-source.min.js.download" async=""></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/js" async="true"></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/RCda299e6941344e7290a6e69ca6bdb28e-source.min.js.download" async=""></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/RCb602669b048c41aea853a60eb9e95abe-source.min.js.download" async=""></script><script charset="utf-8" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/vendors~lazy-imports-c48251afda65fbc5c196.js.download"></script><script charset="utf-8" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/lazy-imports-8730a7e3afaed4bd7c16.js.download"></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/RC30ebeefa701c4f83b3dca8285abb624c-source.min.js.download" async=""></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/RCc59a972d253e4ce783cf4a5bd23ade06-source.min.js.download" async=""></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/RC871f4a80751e4e96994f0ac03f38a223-source.min.js.download" async=""></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/RC788b10f383be4fb2bec767dd874d249d-source.min.js.download" async=""></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/RC0cb70f4a49714af0bdf8b096576c93ca-source.min.js.download" async=""></script><script type="osano/blocked" async=""></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/RC466df64a247a46178a1f1f535ac86aa4-source.min.js.download" async=""></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/RC3797e571b3fe4a8486804b775c3d3c35-source.min.js.download" async=""></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/RCcbd123da511b46f199194b01bcdba50f-source.min.js.download" async=""></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/RC9aa14030267e428aa1bc56859d4e7be6-source.min.js.download" async=""></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/RCc465ef75e5a842feb02190d0f922ee9b-source.min.js.download" async=""></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/RCcc959043661e4f4ca647d09bd8f6f511-source.min.js.download" async=""></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/RCd12cb8203be04bda93690665294ac086-source.min.js.download" async=""></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/RCc369d248d1a74079bc2f8b7f9bd2f62e-source.min.js.download" async=""></script></head>
+        <body class="pb-ui website-pericles"><div data-nosnippet="" class="osano-cm-window" dir="ltr"><!----> <!--?lit$2705758556$--><div hidden="" class="osano-visually-hidden"> <span id="osano-cm-aria.newWindow"><!--?lit$2705758556$-->Öffnet in einem neuen Fenster</span> <span id="osano-cm-aria.external"><!--?lit$2705758556$-->Öffnet eine externe Website</span> <span id="osano-cm-aria.externalNewWindow"><!--?lit$2705758556$-->Öffnet eine externe Website in einem neuen Fenster</span> </div> <!--?lit$2705758556$--> <div role="dialog" id="9fffd86c-858e-496c-a702-8abae45144ba" aria-label="Cookie-Zustimmungsbanner" aria-describedby="9fffd86c-858e-496c-a702-8abae45144ba__label" class=" osano-cm-window__dialog osano-cm-dialog osano-cm-dialog--hidden osano-cm-dialog--position_bottom osano-cm-dialog--type_bar "> <!--?lit$2705758556$--> <button class=" osano-cm-dialog__close osano-cm-close "> <!--?lit$2705758556$--><svg width="20px" height="20px" viewBox="0 0 20 20" role="img" aria-labelledby="e6ee5004-c52b-4c9a-84b9-aec9e3e8e811" focusable="false"> <title id="e6ee5004-c52b-4c9a-84b9-aec9e3e8e811"><!---->Schließen Sie diesen Dialog<!----></title> <line role="presentation" x1="2" y1="2" x2="18" y2="18"></line> <line role="presentation" x1="2" y1="18" x2="18" y2="2"></line> </svg> </button>  <div class=" osano-cm-dialog__content osano-cm-content "> <!--?lit$2705758556$--> <span id="9fffd86c-858e-496c-a702-8abae45144ba__label" class=" osano-cm-content__message osano-cm-message "> <!--?lit$2705758556$-->Diese Website nutzt Technologien wie Cookies, um wesentliche Funktionen der Website zu ermöglichen, sowie für analyse, personalisierung und gezielte werbung. <!--?lit$2705758556$-->Sie können Ihre Einstellungen jederzeit ändern oder die Standardeinstellungen übernehmen. <!--?lit$2705758556$-->Sie können dieses Banner schließen, um nur mit essenziellen Cookies fortzufahren. </span>  <!--?lit$2705758556$--> <!--?lit$2705758556$--><!--?lit$2705758556$--><a rel="noopener" tabindex="0" href="https://www.wiley.com/privacy" target="_blank" class=" osano-cm-storage-policy osano-cm-content__link osano-cm-link " aria-describedby="osano-cm-aria.newWindow"><!--?lit$2705758556$-->Datenschutz-Bestimmungen</a><!--?--><!--?lit$2705758556$--> <!--?lit$2705758556$--> <!--?lit$2705758556$--> </div> <!--?lit$2705758556$--> <div class=" osano-cm-dialog__buttons osano-cm-buttons osano-cm-buttons--disabled "> <!--?lit$2705758556$--><!--?lit$2705758556$--><!--?lit$2705758556$--><button class=" osano-cm-manage osano-cm-buttons__button osano-cm-button osano-cm-button--type_manage " tabindex="0"> <!--?lit$2705758556$-->Einstellungen verwalten </button><!--?--><!--?--> <!--?lit$2705758556$--><!--?lit$2705758556$--><button class=" osano-cm-accept-all osano-cm-buttons__button osano-cm-button osano-cm-button--type_accept " tabindex="0"> <!--?lit$2705758556$-->Alle akzeptieren </button><!--?--> <!--?lit$2705758556$--><!--?lit$2705758556$--><!--?lit$2705758556$--><button class=" osano-cm-denyAll osano-cm-buttons__button osano-cm-button osano-cm-button--type_denyAll " tabindex="0"> <!--?lit$2705758556$-->Alles ablehnen </button><!--?--><!--?--> </div>  </div>  <!--?lit$2705758556$--> <button id="727d2775-e222-4b9b-bcbc-f04b9e55c4cf" class="osano-cm-window__widget osano-cm-widget osano-cm-widget--position_left" title="Cookie-Einstellungen" aria-label="Cookie-Einstellungen"> <svg role="img" width="40" height="40" viewBox="0 0 71.85 72.23" xmlns="http://www.w3.org/2000/svg" aria-labelledby="727d2775-e222-4b9b-bcbc-f04b9e55c4cf" focusable="false"> <path d="m67.6 36.73a6.26 6.26 0 0 1 -3.2-2.8 5.86 5.86 0 0 0 -5.2-3.1h-.3a11 11 0 0 1 -11.4-9.5 6 6 0 0 1 -.1-1.4 9.2 9.2 0 0 1 .4-2.9 8.65 8.65 0 0 0 .2-1.6 5.38 5.38 0 0 0 -1.9-4.3 7.3 7.3 0 0 1 -2.5-5.5 3.91 3.91 0 0 0 -3.5-3.9 36.46 36.46 0 0 0 -15 1.5 33.14 33.14 0 0 0 -22.1 22.7 35.62 35.62 0 0 0 -1.5 10.2 34.07 34.07 0 0 0 4.8 17.6.75.75 0 0 0 .07.12c.11.17 1.22 1.39 2.68 3-.36.47 5.18 6.16 5.65 6.52a34.62 34.62 0 0 0 55.6-21.9 4.38 4.38 0 0 0 -2.7-4.74z" stroke-width="3" class=" osano-cm-widget__outline osano-cm-outline "></path> <path d="m68 41.13a32.37 32.37 0 0 1 -52 20.5l-2-1.56c-2.5-3.28-5.62-7.15-5.81-7.44a32 32 0 0 1 -4.5-16.5 34.3 34.3 0 0 1 1.4-9.6 30.56 30.56 0 0 1 20.61-21.13 33.51 33.51 0 0 1 14.1-1.4 1.83 1.83 0 0 1 1.6 1.8 9.38 9.38 0 0 0 3.3 7.1 3.36 3.36 0 0 1 1.2 2.6 3.37 3.37 0 0 1 -.1 1 12.66 12.66 0 0 0 -.5 3.4 9.65 9.65 0 0 0 .1 1.7 13 13 0 0 0 10.5 11.2 16.05 16.05 0 0 0 3.1.2 3.84 3.84 0 0 1 3.5 2 10 10 0 0 0 4.1 3.83 2 2 0 0 1 1.4 2z" stroke-width="3" class=" osano-cm-widget__outline osano-cm-outline "></path> <g class=" osano-cm-widget__dot osano-cm-dot "> <path d="m26.6 31.43a5.4 5.4 0 1 1 5.4-5.43 5.38 5.38 0 0 1 -5.33 5.43z"></path> <path d="m25.2 53.13a5.4 5.4 0 1 1 5.4-5.4 5.44 5.44 0 0 1 -5.4 5.4z"></path> <path d="m47.9 52.33a5.4 5.4 0 1 1 5.4-5.4 5.32 5.32 0 0 1 -5.24 5.4z"></path> </g> </svg> </button>  <!--?lit$2705758556$--><div role="dialog" aria-modal="true" id="e9cf1039-029c-44a2-ba5a-b3e31a185a26" aria-labelledby="e9cf1039-029c-44a2-ba5a-b3e31a185a26__label" aria-hidden="true" class=" osano-cm-window__info-dialog osano-cm-info-dialog osano-cm-info-dialog--hidden "> <!--?lit$2705758556$--><!--?lit$2705758556$--><span tabindex="0" aria-hidden="true" data-focus="first"></span><!--?--> <div role="presentation" class=" osano-cm-info-dialog__info osano-cm-info osano-cm-info--position_left "> <!--?lit$2705758556$--><div role="presentation" class=" osano-cm-info__info-dialog-header osano-cm-info-dialog-header "> <p role="heading" aria-level="1" id="e9cf1039-029c-44a2-ba5a-b3e31a185a26__label" class=" osano-cm-info-dialog-header__header osano-cm-header "> <!--?lit$2705758556$--> </p> <!--?lit$2705758556$--> <button class=" osano-cm-info-dialog-header__close osano-cm-close "> <!--?lit$2705758556$--><svg width="20px" height="20px" viewBox="0 0 20 20" role="img" aria-labelledby="02d109c7-51e4-4659-8e51-10571e831561" focusable="false"> <title id="02d109c7-51e4-4659-8e51-10571e831561"><!---->Schließen Sie die Cookie-Einstellungen<!----></title> <line role="presentation" x1="2" y1="2" x2="18" y2="18"></line> <line role="presentation" x1="2" y1="18" x2="18" y2="2"></line> </svg> </button> <!--?lit$2705758556$--> </div> <div role="presentation" class=" osano-cm-info__info-views osano-cm-info-views osano-cm-info-views--hidden osano-cm-info-views--position_0 "> <!--?lit$2705758556$--> </div> </div> <!--?lit$2705758556$--><!--?lit$2705758556$--><span tabindex="0" aria-hidden="true" data-focus="last"></span><!--?--> </div> </div><style>
+                body, html {
+                    margin: 0;
+                    padding: 0;
+                    height: 100%;
+                    overflow: hidden;
+                }
+            </style>
+            <iframe id="pdf-iframe" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/ajps.html" width="100%" height="100%" type="application/pdf"></iframe>
+
+            <script nonce="5b6ce8f7051b488a8e7973426001149e">
+                function displayUsingPdfJs() {
+
+                    var devices = [
+                        'iPad Simulator',
+                        'iPhone Simulator',
+                        'iPod Simulator',
+                        'iPad',
+                        'iPhone',
+                        'iPod'
+                    ];
+
+                    if (!!navigator.platform) {
+                        while (devices.length) {
+                            if (navigator.platform === devices.pop()) {
+                                return true;
+                            }
+                        }
+                    }
+
+                    return navigator.userAgent.search("Firefox") !== -1 || isIE();
+                }
+
+                function isIE() {
+                    var ua = window.navigator.userAgent;
+                    var msie = ua.indexOf("MSIE ");
+                    var isIE11 = !!navigator.userAgent.match(/Trident.*rv\:11\./);
+                    return msie > 0 || isIE11;
+                }
+
+
+                var src = "/doi/pdfdirect/10.1111/ajps.12784";
+
+                if (displayUsingPdfJs()) {
+                    src = "/templates/jsp/_ux3/_acropolis/_pericles/pdf-viewer/web/viewer.html?file=/doi/pdfdirect/10.1111/ajps.12784";
+                }
+
+                document.getElementById("pdf-iframe").setAttribute("src", src);
+            </script>
+
+<nav class="skip-links">
+    <ul class="rlist">
+        <li><button data-id="#article__content" tabindex="1">Skip to Article Content</button></li>
+                <li><button data-id="#pane-pcw-detailscon" tabindex="1">Skip to Article Information</button></li>
+            </ul>
+</nav>
+
+
+
+
+
+
+
+    <div id="pb-page-content" data-ng-non-bindable="">
+        <div data-pb-dropzone="main" data-pb-dropzone-name="Main">
+
+
+
+
+        
+        <script type="text/javascript" nonce="5b6ce8f7051b488a8e7973426001149e">
+    window.addEventListener('load', () => {
+        document.querySelectorAll('.admin-bar-popup-menu ul li')?.forEach(function (li) {
+            const anchor = li.querySelector('a');
+            if (anchor && anchor.textContent.trim() === 'Edit Access Denial') {
+                li.style.display = 'none';
+            }
+        });
+    });
+</script>
+        </div>
+    </div>
+<script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/build.lazyload.bundle-607de68f4339af1b5472.js.download" nonce="5b6ce8f7051b488a8e7973426001149e"></script><script src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/main.bundle-44156fde71df94861fe0.js.download" nonce="5b6ce8f7051b488a8e7973426001149e"></script><script type="text/javascript" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/o0ac~product.js.download" nonce="5b6ce8f7051b488a8e7973426001149e"></script><iframe name="__uspapiLocator" style="display: none;" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/saved_resource.html"></iframe>
+
+<script nonce="5b6ce8f7051b488a8e7973426001149e">var _prum=[['id','59e8fecb3847311aab7b23c6'],['mark','firstbyte',(new Date()).getTime()]];(function(){var s=document.getElementsByTagName('script')[0],p=document.createElement('script');p.async='async';p.src='//rum-static.pingdom.net/prum.min.js';s.parentNode.insertBefore(p,s);})();</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+
+    
+    
+    
+    
+        
+            
+            
+            
+                
+                    <script type="osano/blocked" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/o0ac~article-metrics-phase2.js.download" nonce="5b6ce8f7051b488a8e7973426001149e"></script>
+                
+            
+        
+    
+
+
+<!-- iframe.jsp -->
+
+<iframe class="connect-teaser" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/saved_resource(1).html" frameborder="0" allowfullscreen="" height="0"></iframe>
+
+
+
+
+    <script nonce="5b6ce8f7051b488a8e7973426001149e">
+        fetch("https://wiley.met.vgwort.de/na/pw-base64-dmd6bS42MDY1MC0xMC4xMTExLWFqcHMuMTI3ODQ=", {mode: 'no-cors', referrerPolicy: 'unsafe-url'});
+    </script>
+<script type="text/javascript" nonce="5b6ce8f7051b488a8e7973426001149e">
+    if (window._satellite) {
+        _satellite.pageBottom();
+    }
+</script>
+<script defer="" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;9401cc18bfc1f64f&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;version&quot;:&quot;2025.4.0-1-g37f21b1&quot;,&quot;token&quot;:&quot;f3dd54df2ac243bab2129483f57546d1&quot;}" crossorigin="anonymous" type="osano/blocked"></script>
+
+
+
+
+<script>_satellite["_runScript1"](function(event, target, Promise) {
+return alloy("getIdentity")
+   .then(function(result) {
+     _satellite.setVar("ECID", result.identity.ECID);
+   });
+});</script><deepl-input-controller translate="no"><template shadowrootmode="open"><link rel="stylesheet" href="chrome-extension://cofdbpoegempjloogbagkncekinflcnj/build/content.css"><div dir="ltr" style="visibility: initial !important;"><div class="dl-input-translation-container svelte-95aucy"><div></div></div></div></template></deepl-input-controller><script>
+gaLoader=window.gaLoader?window.gaLoader:{},function(a,e,t,c,n,i,o){a.GoogleAnalyticsObject=n,a[n]=a[n]||function(){(a[n].q=a[n].q||[]).push(arguments)},a[n].l=1*new Date,i=e.createElement(t),o=e.getElementsByTagName(t)[0],i.async=1,i.src=c,o.parentNode.insertBefore(i,o)}(window,document,"script","//www.google-analytics.com/analytics.js","ga"),gaLoader.load=function(){window.ga&&(ga("create","UA-68565440-15","auto","campaignacct"),gaLoader.trackHubPV(!0))},gaLoader.trackHubPV=function(a){try{if(window.ga){!function(){var a=document.location.search.replace("?","").split("&");for(i=0;i<a.length;i++){var e=a[i].split("=");"campaign"==e[0]&&(ga("campaignacct.set","campaignName",e[1]),ga("campaignacct.set","campaignId",e[1]),ga("campaignacct.set","campaignSource","wiley"),ga("campaignacct.set","campaignMedium","wiley"))}}();var e=document.location.href;_satellite.getVar("ACDL|Content|Access Denial")&&"yes"==_satellite.getVar("ACDL|Content|Access Denial")&&(e=document.location.protocol+"//"+document.location.host+document.location.pathname+"-accessdenied"+document.location.search+document.location.hash,a&&ga("campaignacct.set","metric1",1)),a&&(_satellite.getVar("ACDL|Content|Series Doi")&&ga("campaignacct.set","dimension1",_satellite.getVar("ACDL|Content|Series Doi")),_satellite.getVar("ACDL|Content|Series Title")&&ga("campaignacct.set","dimension2",_satellite.getVar("ACDL|Content|Series Title")),_satellite.getVar("ACDL|Content|Item Doi")&&ga("campaignacct.set","dimension3",_satellite.getVar("ACDL|Content|Item Doi")),_satellite.getVar("ACDL|Content|Article Title")&&ga("campaignacct.set","dimension4",_satellite.getVar("ACDL|Content|Article Title"))),document.location.href.indexOf("/epdf")<1&&(ga("campaignacct.send","pageview",e),a&&(ga("campaignacct.set","metric1",0),ga("campaignacct.set","metric2",0),ga("campaignacct.set","metric3",0),ga("campaignacct.set","metric5",0)))}}catch(a){}},gaLoader.load();
+</script><script>
+window.testad&&document.getElementsByTagName("DIV")[0].appendChild(testad);
+</script><iframe height="0" width="0" style="display: none; visibility: hidden;" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/saved_resource(2).html"></iframe><script>
+try{function gtag(){dataLayer.push(arguments)}gtagjs=document.createElement("script"),gtagjs.setAttribute("src","https://www.googletagmanager.com/gtag/js?id=AW-973395369"),gtagjs.setAttribute("async","true"),document.getElementsByTagName("head")[0].appendChild(gtagjs),dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","AW-973395369"),gtag("event","page_view",{send_to:"AW-973395369",publication:_satellite.getVar("ACDL|Content|Series Title"),wol_subjects:_satellite.getVar("Analytics Variable|Content|Global Subject Codes").split("|"),wol_publication_access:_satellite.getVar("ACDL|Content|Publication Access")})}catch(t){}
+</script><!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2707164636107013');
+fbq('track', 'PageView');
+</script>
+<noscript></noscript>
+<!-- End Meta Pixel Code --><script>
+gaLoader=window.gaLoader?window.gaLoader:{},gaLoader.base="UA-68565440-",gaLoader.sites=["anthrosource","aapm","agupubs","aasldpubs","aslopubs","bpspubs","esajournals","physoc","iubmb","ascpt","stemcellsjournals","theoncologist"],gaLoader.accounts=["3","12","2","4","6","11","7","5","8","9","10","14"],gaLoader.load=function(){for(siteID=window._satellite&&_satellite.getVar("website"),siteIndex=-1,accountID="",i=0;i<gaLoader.sites.length;i++)null!=siteID&&siteID.indexOf(gaLoader.sites[i])>=0&&(siteIndex=gaLoader.accounts[i],accountID=gaLoader.base+siteIndex);null!=siteID&&siteID.indexOf("awwa")>=0&&(window.customGASite="awwa",accountID="UA-36233426-1"),"10.1002/(ISSN)1549-490X"==adobeDataLayer.getState("content.series.doi")&&(window.customGASite="onco",accountID="UA-68565440-10"),(siteIndex>=0||window.customGASite)&&(!function(e,t,a,o,i,s,n){e.GoogleAnalyticsObject=i,e[i]=e[i]||function(){(e[i].q=e[i].q||[]).push(arguments)},e[i].l=1*new Date,s=t.createElement(a),n=t.getElementsByTagName(a)[0],s.async=1,s.src=o,n.parentNode.insertBefore(s,n)}(window,document,"script","//www.google-analytics.com/analytics.js","ga"),window.ga&&(ga("create",accountID,"auto","hubsGA"),window.customGASite&&"awwa"===customGASite?gaLoader.trackHubPV(!1):gaLoader.trackHubPV(!0)))},gaLoader.trackHubPV=function(e){try{if(window.ga){!function(){var e=document.location.search.replace("?","").split("&");for(i=0;i<e.length;i++){var t=e[i].split("=");"campaign"==t[0]&&(ga("hubsGA.set","campaignName",t[1]),ga("hubsGA.set","campaignId",t[1]),ga("hubsGA.set","campaignSource","wiley"),ga("hubsGA.set","campaignMedium","wiley"))}}();var t=document.location.href;"yes"===adobeDataLayer.getState("content.item.access-denial")&&(t=document.location.protocol+"//"+document.location.host+document.location.pathname+"-accessdenied"+document.location.search+document.location.hash,e&&ga("hubsGA.set","metric1",1)),e&&(adobeDataLayer.getState("content.series.doi")&&ga("hubsGA.set","dimension1",adobeDataLayer.getState("content.series.doi")),adobeDataLayer.getState("content.series.title")&&ga("hubsGA.set","dimension2",adobeDataLayer.getState("content.series.title")),adobeDataLayer.getState("content.item.doi")&&ga("hubsGA.set","dimension3",adobeDataLayer.getState("content.item.doi")),adobeDataLayer.getState("content.item.title")&&ga("hubsGA.set","dimension4",adobeDataLayer.getState("content.item.title"))),document.location.href.indexOf("/epdf")<1&&(ga("hubsGA.send","pageview",t),e&&(ga("hubsGA.set","metric1",0),ga("hubsGA.set","metric2",0),ga("hubsGA.set","metric3",0),ga("hubsGA.set","metric5",0)))}}catch(e){}},gaLoader.load();
+</script><script>
+window.LogRocket&&LogRocket.track("pageView",{pageTemplate:adobeDataLayer.getState("page.secondary-section"),pageSubtype:adobeDataLayer.getState("page.tertiary-section"),pageGroup:adobeDataLayer.getState("page.primary-section"),website:_satellite.getVar("ACDL|Page|Site Hub"),articleDoi:_satellite.getVar("ACDL|Content|Item Doi"),pubTitle:_satellite.getVar("ACDL|Content|Series Title")});
+</script><script type="text/javascript">
+_linkedin_partner_id = "6171460";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript></noscript>
+<script type="text/javascript">
+  // Check if the current domain contains 'febs.onlinelibrary.com'
+  if (window.location.hostname.includes('febs.')) {
+    // LinkedIn Conversion Pixel Script
+    var linkedinPartnerId = "6336738";
+    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+    window._linkedin_data_partner_ids.push(linkedinPartnerId);
+
+    (function(l) {
+      if (!l) {
+        window.lintrk = function(a, b) {
+          window.lintrk.q.push([a, b]);
+        };
+        window.lintrk.q = [];
+      }
+      var s = document.getElementsByTagName("script")[0];
+      var b = document.createElement("script");
+      b.type = "text/javascript";
+      b.async = true;
+      b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+      s.parentNode.insertBefore(b, s);
+    })(window.lintrk);
+  }
+</script>
+<script>_satellite["_runScript2"](function(event, target, Promise) {
+window.uetq=window.uetq||[],window.uetq.push("consent","default",{ad_storage:"denied"}),console.log("UET Default command fired, ad_storage consent manually set to denied"),console.log("msconsent signal is as below:");try{console.log("trying to retrieve uetq consent status");try{console.log("trying to retrieve via uetq.uetConfig.consent.adStorageAllowed"),console.log("uetq.uetConfig.consent.adStorageAllowed value is: ",window.uetq.uetConfig.consent.adStorageAllowed)}catch(e){console.log("uetq.uetConfig.consent.adStorageAllowed caused an error"),console.log(e)}try{console.log("trying to retrieve via window.uetq[uetq.length-1]"),console.log("the value of window.uetq[uetq.length-1] is:",window.uetq[uetq.length-1])}catch(e){console.log("window.uetq[uetq.length-1] caused an error"),console.log(e)}}catch(e){console.log("unable to retrieve uetq consent value"),console.log(e)}console.log("The current value of the GCMv2 Osano signal is:",1==window.google_tag_data.ics.getConsentState("ad_storage")?"granted":"denied"),console.log("The current value of the GCMv2 Osano Data Element in Launch is: ",_satellite.getVar("CJS-DataElement-Return-Google-Osano-ad_stoarage-Consent-Status-For-Bing-UET-Consent-Mode"));
+});</script><script>_satellite["_runScript3"](function(event, target, Promise) {
+window.uetq=window.uetq||[],window.uetq.push("consent","update",{ad_storage:_satellite.getVar("CJS-DataElement-Return-Google-Osano-ad_stoarage-Consent-Status-For-Bing-UET-Consent-Mode")}),console.log("UET Update fired, uetq consent set to the GCMv2 Osano signal value"),console.log("The current value of the msconsent value is as below:");try{console.log("trying to retrieve uetq consent status");try{console.log("trying to retrieve via uetq.uetConfig.consent.adStorageAllowed"),console.log("uetq.uetConfig.consent.adStorageAllowed value is: ",window.uetq.uetConfig.consent.adStorageAllowed)}catch(e){console.log("uetq.uetConfig.consent.adStorageAllowed caused an error"),console.log(e)}try{console.log("trying to retrieve via window.uetq[uetq.length-1]"),console.log("the value of window.uetq[uetq.length-1] is:",window.uetq[uetq.length-1])}catch(e){console.log("window.uetq[uetq.length-1] caused an error"),console.log(e)}}catch(e){console.log("unable to retrieve uetq consent value"),console.log(e)}console.log("The current value of the GCMv2 Osano signal is:",1==window.google_tag_data.ics.getConsentState("ad_storage")?"granted":"denied"),console.log("The current value of the GCMv2 Osano Data Element in Launch is: ",_satellite.getVar("CJS-DataElement-Return-Google-Osano-ad_stoarage-Consent-Status-For-Bing-UET-Consent-Mode"));
+});</script><script>_satellite["_runScript4"](function(event, target, Promise) {
+!function(){console.log("IIFE running");const e=window.dataLayer.push;window.dataLayer.push=function(){for(const t of arguments)"object"!=typeof t||null===t||t.hasOwnProperty("event")||"consent"!=t[0]||"update"!=t[1]||(console.log("GCMv2 update dataLayer push detected:",t),e.apply(window.dataLayer,arguments),window.uetq=window.uetq||[],console.log("updating the uetq object with consent value from the captured push"),console.log("the value of item[2]['ad_storage'] is: ",t[2].ad_storage),window.uetq.push("consent","update",{ad_storage:t[2].ad_storage}),console.log("uetq object now updated with the GCMv2 Osano consent state"),console.log("the current GCMv2 Osano consent signal is",1==window.google_tag_data.ics.getConsentState("ad_storage")?"granted":"denied"),console.log("the current state of the adobe data element is",_satellite.getVar("CJS-DataElement-Return-Google-Osano-ad_stoarage-Consent-Status-For-Bing-UET-Consent-Mode")),console.log("pushing event GCMv2_Osano_Consent_Updated to the adobeDataLayer"),console.log("immediately after the acdl push the value of the GCMv2 Osano signal is",1==window.google_tag_data.ics.getConsentState("ad_storage")?"granted":"denied"),console.log("the current state of the adobe data element is",_satellite.getVar("CJS-DataElement-Return-Google-Osano-ad_stoarage-Consent-Status-For-Bing-UET-Consent-Mode")),console.log("dispatching the original dl push event"),window.dispatchEvent(new CustomEvent("GCMv2DataLayerPush",{detail:t})));return console.log("returning the original dl push with arguments to the dl"),e.apply(window.dataLayer,arguments)}}();
+});</script><script>
+window.fbq&&fbq("trackCustom","FullTextArticle",{articleDoi:adobeDataLayer.getState("content.item.doi"),subjects:_satellite.getVar("Analytics Variable|Content|Global Subject Codes").split("|"),publicationDoi:adobeDataLayer.getState("content.series.doi"),pagePath:adobeDataLayer.getState("page.primary-section")+"|"+adobeDataLayer.getState("page.secondary-section")+"|"+adobeDataLayer.getState("page.tertiary-section"),publicationTitle:adobeDataLayer.getState("content.series.title"),publicationType:adobeDataLayer.getState("content.series.type"),hub:_satellite.getVar("ACDL|Page|Brand")});
+</script><script>
+!function(e,t,n,i,a,c){e.twq||(i=e.twq=function(){i.exe?i.exe.apply(i,arguments):i.queue.push(arguments)},i.version="1.1",i.queue=[],(a=t.createElement(n)).async=!0,a.src="//static.ads-twitter.com/uwt.js",(c=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,c))}(window,document,"script"),twq("init","o2oym"),twq("track","PageView");
+</script><script>
+var researchArticleObject={xdm:{_experience:{analytics:{event1to100:_satellite.getVar("Analytics Events|Content|Article"),customDimensions:{eVars:{eVar32:_satellite.getVar("ACDL|Content|Item Doi"),eVar38:_satellite.getVar("ACDL|Content|Format Viewed"),eVar34:_satellite.getVar("ACDL|Content|Article Title"),eVar35:_satellite.getVar("Analytics Variable|Content|Article DOI And Title"),eVar37:_satellite.getVar("ACDL|Content|Article Access Type"),eVar127:_satellite.getVar("ACDL|Content|Article Published Date")}}}}}};
+</script><!-- Google tag (gtag.js) --> <script async="" src="./Callander et al - 2024 - The Dynamics of a Policy Outcome_files/js(1)"></script> 
+<script> window.dataLayer = window.dataLayer || []; 
+  function gtag(){
+    dataLayer.push(arguments);
+  } 
+  gtag('js', new Date());
+  gtag('config', 'G-9C4T5P6PP6'); 
+</script> <script>
+var allPagesObject={xdm:{eventType:"page-load "+(_satellite.getVar("ACDL|Page|Page Type")?_satellite.getVar("ACDL|Page|Page Type"):""),identityMap:_satellite.getVar("Web SDK | IdentityMap"),web:{webPageDetails:{pageViews:{value:1},server:window.document.domain,siteSection:_satellite.getVar("Website Acronym")+":"+_satellite.getVar("ACDL|Page|Primary Section"),name:_satellite.getVar("Computed Page Name")},webReferrer:{URL:_satellite.getVar("Analytics Variable|Page|Page_Referrer")}},marketing:{trackingCode:_satellite.getVar("trackingCode")},_wileypublishing:{wol:{content:{item_type:_satellite.getVar("ACDL|Content|Item Type")}}},_experience:{analytics:{event1to100:{event41:{value:1}},customDimensions:{eVars:{eVar1:_satellite.getVar("Analytics Variable|Page|Page_Url"),eVar9:_satellite.getVar("ACDL|User|Login Status"),eVar21:_satellite.getVar("Computed Page Name"),eVar22:_satellite.getVar("ACDL|Page|Page Type with brand"),eVar23:_satellite.getVar("ACDL|User|Admin Type"),eVar24:_satellite.getVar("Analytics Variable|Page|Page_Referrer"),eVar26:_satellite.getVar("Analytics Variable|Content|ArticleFindingMethod"),eVar27:_satellite.getVar("ACDL|User|Consent Marketing"),eVar28:_satellite.getVar("ACDL|User|Login Type"),eVar40:_satellite.getVar("ACDL|Content|Series Doi"),eVar41:_satellite.getVar("ACDL|Content|Publication Access"),eVar45:_satellite.getVar("ACDL|Content| Volume & Issue"),eVar46:_satellite.getVar("Analytics Variable|Content|Virtual Issue Label"),eVar55:_satellite.getVar("ACDL|User|Email Domain"),eVar58:_satellite.getVar("ACDL|User|Email ID"),eVar60:_satellite.getVar("ACDL|Page|Site Environment"),eVar61:_satellite.getVar("ACDL|User|Person Uuid"),eVar84:_satellite.getVar("ACDL|Content|Access Denial"),eVar85:_satellite.getVar("ACDL|User|Ecommerce ID"),eVar87:_satellite.getVar("ACDL|User|Login Value"),eVar88:_satellite.getVar("ACDL|Content|Item|Auth Type"),eVar90:_satellite.getVar("ACDL|Content|Item|Token Type"),eVar100:_satellite.getVar("ECID"),eVar103:_satellite.getVar("ACDL|Content|Series Type"),eVar113:_satellite.getVar("ACDL|User|Alm Internal Id"),eVar120:_satellite.getVar("ACDL|User|Alm External Id"),eVar123:_satellite.getVar("ACDL|Page|Locale"),eVar124:_satellite.getVar("ACDL|Content|Group Access"),eVar125:_satellite.getVar("ACDL|Content|Series Title"),eVar145:_satellite.getVar("Analytics Variable|ExternalReferrer"),eVar146:_satellite.getVar("Core QSP | gclid"),eVar147:_satellite.getVar("ACDL|User|Aconnect Id"),eVar155:_satellite.getVar("Analytics Variable|Page|Query_Param"),eVar199:_satellite.getVar("Analytics Variable|Page|User_Agent")},props:{prop1:_satellite.getVar("ACDL|Page|Page Type with brand"),prop2:_satellite.getVar("Previous Page Name"),prop17:_satellite.getVar("Analytics Variable|Content|Gpt Site Name"),prop18:_satellite.getVar("Analytics Variable|Content|Gpt Zone Name"),prop19:_satellite.getVar("Analytics Variable|Content|Global Subject Codes"),prop20:_satellite.getVar("Analytics Variable|Page|Query_Param"),prop21:_satellite.getVar("ACDL|Page|Secondary Section"),prop22:_satellite.getVar("ACDL|Page|Tertiary Section"),prop24:_satellite.getVar("ACDL|Page|Brand"),prop27:_satellite.getVar("Analytics Variable|Page|Web Driver"),prop29:_satellite.getVar("Analytics Variable|Page|Hash_Url"),prop30:_satellite.getVar("ACDL|Page|Brand")+":"+_satellite.getVar("Analytics Variable|Page|Page Section Path"),prop31:_satellite.getVar("ACDL|Page|Error Code"),prop33:_satellite.getVar("ACDL|Content|Format Available"),prop34:_satellite.getVar("ACDL|Page|Brand")+":"+_satellite.getVar("ACDL|User|Consent Osano"),prop35:_satellite.getVar("Analytics Variable|Content|Article Relative Age"),prop37:_satellite.getVar("Analytics Variable|Page|Page Title")},lists:{list2:{list:_satellite.getVar("Core|CustomerIDs")}}}}}}};
+</script><script>_satellite["_runScript5"](function(event, target, Promise) {
+alloy("sendEvent",_satellite.getVar("XDM Merged Object"));
+});</script><script>
+allPagesObject={},searchObject={},researchArticleObject={},journalObject={},issueObject={},bookObject={},bookseriesObject={},chapterObject={},chapterArticleObject={},referenceWorkObject={},mrwArticleObject={},loginEventObject={},journalMetricsObject={},eTOCRegistrationFormSubmitObject={},eTOCSingupSuccessNoRegObject={},eTOCSingupSuccessRegStartObject={};
+</script></body></html>
