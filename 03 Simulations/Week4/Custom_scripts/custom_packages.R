@@ -26,6 +26,8 @@ pacman::p_load(
   parallel,
   googledrive, 
   essurvey,
+  showtext,
+  colorspace,
   survey,
   googlesheets4,
   googleLanguageR,

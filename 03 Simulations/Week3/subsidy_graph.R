@@ -1,7 +1,9 @@
 
+# Import librares 
 
 library(DiagrammeR)
 library(DiagrammeRsvg)
+library(magick)
 
 # set path to Figures directory 
 fig_dir <- here::here("03 Simulations", "Week3", "Figures")
@@ -62,8 +64,8 @@ decision_tree <- grViz("
     # Edges
     edge [color = '#555555', arrowsize = 0.8, fontname = 'Helvetica', fontsize = 9]
 
-    Z -> A [label = 'Short to\\nmedium term', labelangle = 0, labeldistance = 1.5]
-    Z -> B [label = 'Medium to\\nlong term', labelangle = 0, labeldistance = 1.5]
+    Z -> A [label = 'Short to\\nmedium term', labelangle = -40, labeldistance = 1.5]
+    Z -> B [label = 'Medium to\\nlong term', labelangle = 45, labeldistance = 1.5]
 
     A -> a
     A -> b
@@ -97,13 +99,21 @@ decision_tree <- grViz("
   }
 ")
 
+# Save the graph to a png file
+svg <- decision_tree %>% export_svg()
+image <- image_read_svg(svg, width = 3000, height = 2000)
+image_trimmed <- image_trim(image)
+
+image_write(image_trimmed, path = file.path(fig_dir, "decision_tree_trimmed.png"), format = "png")
+
+
 
 # Save the graph to a file
-decision_tree %>%
-  export_svg() %>%
-  charToRaw() %>%
-  rsvg_png(file = file.path(fig_dir, "decision_tree.png"), 
-           width = 3000,     
-           height = 2000)
+# decision_tree %>%
+#   export_svg() %>%
+#   charToRaw() %>%
+#   rsvg_png(file = file.path(fig_dir, "decision_tree.png"), 
+#            width = 3000,     
+#            height = 2000)
 
 
